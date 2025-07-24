@@ -1843,7 +1843,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Configuration.БиблиотекаСтандартныхПодсистем</name>
+		<name>Configuration.СкладCRM</name>
 		<right>
 			<name>Administration</name>
 			<value>true</value>

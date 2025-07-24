@@ -32,11 +32,11 @@
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
-			<Name>БиблиотекаСтандартныхПодсистем</Name>
+			<Name>СкладCRM</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Библиотека стандартных подсистем, редакция 3.1</v8:content>
+					<v8:content>Склад / CRM</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -274,6 +274,8 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>Склад</Subsystem>
+			<Subsystem>CRM</Subsystem>
 			<Subsystem>Администрирование</Subsystem>
 			<Subsystem>ПодключаемыеОтчетыИОбработки</Subsystem>
 			<Subsystem>СтандартныеПодсистемы</Subsystem>
@@ -1077,6 +1079,7 @@
 			<CommonTemplate>ПолучениеДереваОбработчиковОбновления</CommonTemplate>
 			<CommonTemplate>ПустойМакетDOCX</CommonTemplate>
 			<CommonTemplate>СтруктураПодчиненности</CommonTemplate>
+			<CommonTemplate>КомпонентаRMQ</CommonTemplate>
 			<FilterCriterion>СвязанныеДокументы</FilterCriterion>
 			<CommonModule>GoogleПереводчик</CommonModule>
 			<CommonModule>АвтономнаяРабота</CommonModule>
@@ -1601,6 +1604,8 @@
 			<CommonModule>ЭлектроннаяПодписьСлужебныйЛокализация</CommonModule>
 			<CommonModule>ЭлектроннаяПодписьСлужебныйПовтИсп</CommonModule>
 			<CommonModule>ЯндексПереводчик</CommonModule>
+			<CommonModule>RMQ</CommonModule>
+			<CommonModule>CRM_RMQ</CommonModule>
 			<CommonAttribute>КомментарийЯзык1</CommonAttribute>
 			<CommonAttribute>КомментарийЯзык2</CommonAttribute>
 			<CommonAttribute>НаименованиеЯзык1</CommonAttribute>
@@ -1807,6 +1812,10 @@
 			<ScheduledJob>УстановкаПериодаРассчитанныхИтогов</ScheduledJob>
 			<ScheduledJob>УстановкаПорядкаОтложенногоОбновленияВМоделиСервиса</ScheduledJob>
 			<ScheduledJob>ЭкспортОценкиПроизводительности</ScheduledJob>
+			<ScheduledJob>ОтправитьВRMQ</ScheduledJob>
+			<ScheduledJob>ПрочитатьRMQ</ScheduledJob>
+			<ScheduledJob>CRM_ОтправитьВRMQ</ScheduledJob>
+			<ScheduledJob>CRM_ПрочитатьRMQ</ScheduledJob>
 			<SettingsStorage>ХранилищеВариантовОтчетов</SettingsStorage>
 			<FunctionalOption>АктуальнаяДатаОбновленияПовторноИспользуемыхЗначенийМРО</FunctionalOption>
 			<FunctionalOption>ВариантыВерсионированияОбъектов</FunctionalOption>
@@ -2353,6 +2362,10 @@
 			<Catalog>ЭлектронноеПисьмоВходящееПрисоединенныеФайлы</Catalog>
 			<Catalog>ЭлектронноеПисьмоИсходящееПрисоединенныеФайлы</Catalog>
 			<Catalog>ЯзыкиПечатныхФорм</Catalog>
+			<Catalog>Номенклатура</Catalog>
+			<Catalog>CRM_Номенклатура</Catalog>
+			<Catalog>Контрагенты</Catalog>
+			<Catalog>CRM_Клиенты</Catalog>
 			<Document>АктОбУничтоженииПерсональныхДанных</Document>
 			<Document>Анкета</Document>
 			<Document>Встреча</Document>
@@ -2364,6 +2377,9 @@
 			<Document>ТелефонныйЗвонок</Document>
 			<Document>ЭлектронноеПисьмоВходящее</Document>
 			<Document>ЭлектронноеПисьмоИсходящее</Document>
+			<Document>Приход</Document>
+			<Document>Заказ</Document>
+			<Document>CRM_Заказ</Document>
 			<DocumentJournal>Взаимодействия</DocumentJournal>
 			<DocumentJournal>СогласияНаОбработкуПерсональныхДанных</DocumentJournal>
 			<Enum>ВажностьПроблемыУчета</Enum>
@@ -2461,6 +2477,8 @@
 			<Enum>ЦветаЗаметок</Enum>
 			<Enum>ЦветаСвойств</Enum>
 			<Enum>ЦветностиИзображения</Enum>
+			<Enum>СтатусыЗаказов</Enum>
+			<Enum>CRM_СтатусыЗаказов</Enum>
 			<Report>АнализВерсийОбъектов</Report>
 			<Report>АнализЖурналаРегистрации</Report>
 			<Report>АнализОпроса</Report>
@@ -2571,6 +2589,8 @@
 			<DataProcessor>УправлениеИтогамиИАгрегатами</DataProcessor>
 			<DataProcessor>УправлениеПодключениемDSS</DataProcessor>
 			<DataProcessor>УстановкаОбновлений</DataProcessor>
+			<DataProcessor>RMQ</DataProcessor>
+			<DataProcessor>CRM_RMQ</DataProcessor>
 			<InformationRegister>АдминистративнаяИерархия</InformationRegister>
 			<InformationRegister>АдресныеОбъекты</InformationRegister>
 			<InformationRegister>АрхивСообщенийОбменов</InformationRegister>
@@ -2754,6 +2774,11 @@
 			<InformationRegister>УдалитьОбластиПерсональныхДанных</InformationRegister>
 			<InformationRegister>УдалитьРезультатыОбменаДанными</InformationRegister>
 			<InformationRegister>УдалитьХранимыеФайлыВерсий</InformationRegister>
+			<InformationRegister>ОчередьRMQ</InformationRegister>
+			<InformationRegister>CRM_ОчередьRMQ</InformationRegister>
+			<InformationRegister>ПараметрыПодключенияRMQ</InformationRegister>
+			<InformationRegister>CRM_ПараметрыПодключенияRMQ</InformationRegister>
+			<AccumulationRegister>СвободныеОстатки</AccumulationRegister>
 			<ChartOfCharacteristicTypes>ВопросыДляАнкетирования</ChartOfCharacteristicTypes>
 			<ChartOfCharacteristicTypes>ДополнительныеРеквизитыИСведения</ChartOfCharacteristicTypes>
 			<ChartOfCharacteristicTypes>ОбъектыАдресацииЗадач</ChartOfCharacteristicTypes>
