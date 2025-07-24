@@ -1,1 +1,2 @@
-gitsync sync --storage-user gitsync "C:\1C\otus_project\storage1C" "C:\Git\otus_project\src\cf"
+gitsync sync --storage-user gitsync "D:\1c_data\otus_project\storage1C" "D:\Git\otus_project\src\cf"
+docker run -it --name rabbitmq -p 5672:5672 -p 15672:15672 -p 15692:15692 rabbitmq:management
