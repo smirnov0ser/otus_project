@@ -52,9 +52,9 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Role.АдминистраторСистемы</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Role.ИнтерактивноеОткрытиеВнешнихОтчетовИОбработок</xr:Item>
 			</DefaultRoles>
-			<Vendor>Фирма "1С"</Vendor>
-			<Version>3.1.10.420</Version>
-			<UpdateCatalogAddress>http://downloads.v8.1c.ru/tmplts/</UpdateCatalogAddress>
+			<Vendor/>
+			<Version>1.1.1.1</Version>
+			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>true</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
 			<UseOrdinaryFormInManagedApplication>false</UseOrdinaryFormInManagedApplication>
@@ -238,30 +238,10 @@
 			<DefaultInterface/>
 			<DefaultStyle/>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
-			<BriefInformation>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Библиотека стандартных подсистем, редакция 3.1</v8:content>
-				</v8:item>
-			</BriefInformation>
-			<DetailedInformation>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Библиотека стандартных подсистем, редакция 3.1</v8:content>
-				</v8:item>
-			</DetailedInformation>
-			<Copyright>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Copyright © ООО "1С-Софт", 2009-2024. Все права защищены</v8:content>
-				</v8:item>
-			</Copyright>
-			<VendorInformationAddress>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>http://www.1c.ru</v8:content>
-				</v8:item>
-			</VendorInformationAddress>
+			<BriefInformation/>
+			<DetailedInformation/>
+			<Copyright/>
+			<VendorInformationAddress/>
 			<ConfigurationInformationAddress/>
 			<DataLockControlMode>Managed</DataLockControlMode>
 			<ObjectAutonumerationMode>NotAutoFree</ObjectAutonumerationMode>
@@ -1606,6 +1586,8 @@
 			<CommonModule>ЯндексПереводчик</CommonModule>
 			<CommonModule>RMQ</CommonModule>
 			<CommonModule>CRM_RMQ</CommonModule>
+			<CommonModule>СкладCRM</CommonModule>
+			<CommonModule>ОбновлениеИнформационнойБазыСкладCRM</CommonModule>
 			<CommonAttribute>КомментарийЯзык1</CommonAttribute>
 			<CommonAttribute>КомментарийЯзык2</CommonAttribute>
 			<CommonAttribute>НаименованиеЯзык1</CommonAttribute>
@@ -2589,8 +2571,8 @@
 			<DataProcessor>УправлениеИтогамиИАгрегатами</DataProcessor>
 			<DataProcessor>УправлениеПодключениемDSS</DataProcessor>
 			<DataProcessor>УстановкаОбновлений</DataProcessor>
-			<DataProcessor>RMQ</DataProcessor>
-			<DataProcessor>CRM_RMQ</DataProcessor>
+			<DataProcessor>РучноеУправлениеRMQ</DataProcessor>
+			<DataProcessor>CRM_РучноеУправлениеRMQ</DataProcessor>
 			<InformationRegister>АдминистративнаяИерархия</InformationRegister>
 			<InformationRegister>АдресныеОбъекты</InformationRegister>
 			<InformationRegister>АрхивСообщенийОбменов</InformationRegister>

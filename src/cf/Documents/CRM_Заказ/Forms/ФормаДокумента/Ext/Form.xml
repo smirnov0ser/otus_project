@@ -12,6 +12,11 @@
 			</Button>
 		</ChildItems>
 	</AutoCommandBar>
+	<Events>
+		<Event name="AfterWrite">ПослеЗаписи</Event>
+		<Event name="OnOpen">ПриОткрытии</Event>
+		<Event name="BeforeWrite">ПередЗаписью</Event>
+	</Events>
 	<ChildItems>
 		<InputField name="Статус" id="10">
 			<DataPath>Объект.Статус</DataPath>
