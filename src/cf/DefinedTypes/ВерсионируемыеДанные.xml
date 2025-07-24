@@ -17,16 +17,7 @@
 			</Synonym>
 			<Comment/>
 			<Type>
-				<v8:Type>cfg:CatalogRef._ДемоФизическиеЛица</v8:Type>
-				<v8:Type>cfg:DocumentRef._ДемоСчетНаОплатуПокупателю</v8:Type>
-				<v8:Type>cfg:ChartOfCharacteristicTypesRef._ДемоВидыСубконто</v8:Type>
-				<v8:Type>cfg:CatalogRef._ДемоХарактеристики</v8:Type>
-				<v8:Type>cfg:ChartOfAccountsRef._ДемоОсновной</v8:Type>
-				<v8:Type>cfg:DocumentRef._ДемоПоступлениеТоваров</v8:Type>
 				<v8:Type>cfg:CatalogRef.РассылкиОтчетов</v8:Type>
-				<v8:Type>cfg:CatalogRef._ДемоКонтрагенты</v8:Type>
-				<v8:Type>cfg:ChartOfCalculationTypesRef._ДемоОсновныеНачисления</v8:Type>
-				<v8:Type>cfg:BusinessProcessRef._ДемоЗаданиеСРолевойАдресацией</v8:Type>
 				<v8:Type>cfg:CatalogRef.ИдентификаторыОбъектовМетаданных</v8:Type>
 				<v8:Type>cfg:CatalogRef.ВидыКонтактнойИнформации</v8:Type>
 			</Type>

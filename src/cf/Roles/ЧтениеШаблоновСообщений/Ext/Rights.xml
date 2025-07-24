@@ -45,7 +45,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Configuration.БиблиотекаСтандартныхПодсистемДемо</name>
+		<name>Configuration.БиблиотекаСтандартныхПодсистем</name>
 		<right>
 			<name>MainWindowModeNormal</name>
 			<value>true</value>

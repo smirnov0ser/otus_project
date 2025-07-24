@@ -17,30 +17,18 @@
 			</Synonym>
 			<Comment>Типы значений и групп значений</Comment>
 			<Type>
-				<v8:Type>cfg:CatalogRef._ДемоФизическиеЛица</v8:Type>
-				<v8:Type>cfg:CatalogRef._ДемоКассыККМ</v8:Type>
 				<v8:Type>cfg:CatalogRef.ПапкиФайлов</v8:Type>
-				<v8:Type>cfg:CatalogRef._ДемоНоменклатура</v8:Type>
 				<v8:Type>cfg:CatalogRef.ВнешниеПользователи</v8:Type>
-				<v8:Type>cfg:EnumRef._ДемоХозяйственныеОперации</v8:Type>
 				<v8:Type>cfg:CatalogRef.КлючиДоступа</v8:Type>
-				<v8:Type>cfg:CatalogRef._ДемоГруппыДоступаНоменклатуры</v8:Type>
 				<v8:Type>cfg:CatalogRef.ИдентификаторыОбъектовРасширений</v8:Type>
 				<v8:Type>cfg:CatalogRef.ГруппыВнешнихПользователей</v8:Type>
 				<v8:Type>cfg:CatalogRef.ГруппыПользователей</v8:Type>
 				<v8:Type>cfg:EnumRef.ДополнительныеЗначенияДоступа</v8:Type>
-				<v8:Type>cfg:CatalogRef._ДемоПодразделения</v8:Type>
 				<v8:Type>cfg:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения</v8:Type>
-				<v8:Type>cfg:CatalogRef._ДемоВидыНоменклатуры</v8:Type>
 				<v8:Type>cfg:CatalogRef.ДополнительныеОтчетыИОбработки</v8:Type>
-				<v8:Type>cfg:CatalogRef._ДемоПартнеры</v8:Type>
 				<v8:Type>cfg:CatalogRef.Пользователи</v8:Type>
-				<v8:Type>cfg:CatalogRef._ДемоОрганизации</v8:Type>
 				<v8:Type>cfg:CatalogRef.ГруппыИсполнителейЗадач</v8:Type>
-				<v8:Type>cfg:CatalogRef._ДемоМестаХранения</v8:Type>
-				<v8:Type>cfg:CatalogRef._ДемоКассы</v8:Type>
 				<v8:Type>cfg:CatalogRef.УчетныеЗаписиЭлектроннойПочты</v8:Type>
-				<v8:Type>cfg:CatalogRef._ДемоГруппыДоступаПартнеров</v8:Type>
 				<v8:Type>cfg:CatalogRef.ИдентификаторыОбъектовМетаданных</v8:Type>
 			</Type>
 		</Properties>

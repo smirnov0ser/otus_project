@@ -29,7 +29,6 @@
 				<v8:Type>cfg:ConstantValueManager.КаталогСообщенийОбменаДаннымиДляLinux</v8:Type>
 				<v8:Type>cfg:ConstantValueManager.СоздаватьПодкаталогиСИменамиВладельцев</v8:Type>
 				<v8:Type>cfg:ConstantValueManager.ИзменятьЗаданияЗаднимЧислом</v8:Type>
-				<v8:Type>cfg:ConstantValueManager.ИспользоватьПрофилиБезопасностиДляРасширений</v8:Type>
 				<v8:Type>cfg:ConstantValueManager.УдалитьНастройкиВходаПользователей</v8:Type>
 				<v8:Type>cfg:ConstantValueManager.ОтложенноеОбновлениеЗавершеноУспешно</v8:Type>
 				<v8:Type>cfg:CatalogObject.УчетныеЗаписиЭлектроннойПочты</v8:Type>

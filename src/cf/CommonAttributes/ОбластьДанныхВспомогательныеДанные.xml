@@ -41,47 +41,7 @@
 			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
 			<Content>
 				<xr:Item>
-					<xr:Metadata>InformationRegister.ДоступныеЛицензии</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>Constant.ИспользуетсяМиграцияПриложений</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>InformationRegister.РазмерОбъектовМетаданныхПриложений</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>InformationRegister.ВыгрузкаЗагрузкаОбъектовМетаданных</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>InformationRegister.СостоянияВыгрузкиЗагрузкиОбластейДанных</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>Catalog.СообщенияОбластейДанных</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>InformationRegister.ФайлыВременногоХранилища</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
 					<xr:Metadata>InformationRegister.ИспользованиеПоставляемыхДополнительныхОтчетовИОбработокВОбластяхДанных</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>InformationRegister.РейтингАктивностиОбластейДанных</xr:Metadata>
 					<xr:Use>Use</xr:Use>
 					<xr:ConditionalSeparation/>
 				</xr:Item>
@@ -91,17 +51,7 @@
 					<xr:ConditionalSeparation/>
 				</xr:Item>
 				<xr:Item>
-					<xr:Metadata>Constant.ДатаПоследнегоСтартаКлиентскогоСеанса</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
 					<xr:Metadata>InformationRegister.ОбработчикиОбновления</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>InformationRegister.ПоставляемыеДанныеТребующиеОбработкиВОбластях</xr:Metadata>
 					<xr:Use>Use</xr:Use>
 					<xr:ConditionalSeparation/>
 				</xr:Item>
@@ -111,17 +61,7 @@
 					<xr:ConditionalSeparation/>
 				</xr:Item>
 				<xr:Item>
-					<xr:Metadata>InformationRegister.ОбластиДанных</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
 					<xr:Metadata>Constant.ОтложенноеОбновлениеЗавершеноУспешно</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>InformationRegister.СвойстваЗаданий</xr:Metadata>
 					<xr:Use>Use</xr:Use>
 					<xr:ConditionalSeparation/>
 				</xr:Item>
@@ -131,32 +71,7 @@
 					<xr:ConditionalSeparation/>
 				</xr:Item>
 				<xr:Item>
-					<xr:Metadata>InformationRegister.ФайлыОбластейДанных</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
 					<xr:Metadata>InformationRegister.ПотокиОбновления</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>InformationRegister.РазрешенияНаИспользованиеВнешнихРесурсовОбластейДанных</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>Constant.ПрефиксОбластиДанных</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>InformationRegister.ИсторияЗапускаЗаданийОчереди</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>Constant.ЧасовойПоясОбластиДанных</xr:Metadata>
 					<xr:Use>Use</xr:Use>
 					<xr:ConditionalSeparation/>
 				</xr:Item>
@@ -171,22 +86,7 @@
 					<xr:ConditionalSeparation/>
 				</xr:Item>
 				<xr:Item>
-					<xr:Metadata>InformationRegister.ОчередьОбновляемыхПоставляемыхРасширенийВОбластяхДанных</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
 					<xr:Metadata>InformationRegister.СостоянияУспешныхОбменовДаннымиОбластейДанных</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>InformationRegister.ЧастиВыгрузкиЗагрузкиОбластейДанных</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>InformationRegister.РазмерПриложений</xr:Metadata>
 					<xr:Use>Use</xr:Use>
 					<xr:ConditionalSeparation/>
 				</xr:Item>
@@ -201,32 +101,7 @@
 					<xr:ConditionalSeparation/>
 				</xr:Item>
 				<xr:Item>
-					<xr:Metadata>Constant.УстановленаМонопольнаяБлокировка</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>InformationRegister.ЗанятыеЛицензии</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>InformationRegister.ВерсииКлассификаторовОбластейДанных</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>ScheduledJob.РегламентнаяОбработкаОчередиЗадачОбластейДанных</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
 					<xr:Metadata>InformationRegister.ОчередьИнсталляцииПоставляемыхДополнительныхОтчетовИОбработокВОбластиДанных</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>InformationRegister.ОчередьИнсталляцииПоставляемыхРасширенийВОбластиДанных</xr:Metadata>
 					<xr:Use>Use</xr:Use>
 					<xr:ConditionalSeparation/>
 				</xr:Item>
@@ -246,62 +121,12 @@
 					<xr:ConditionalSeparation/>
 				</xr:Item>
 				<xr:Item>
-					<xr:Metadata>InformationRegister.СводныеПриложенияСостояниеВыгрузки</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
 					<xr:Metadata>InformationRegister.ВерсииПодсистемОбластейДанных</xr:Metadata>
 					<xr:Use>Use</xr:Use>
 					<xr:ConditionalSeparation/>
 				</xr:Item>
 				<xr:Item>
-					<xr:Metadata>InformationRegister.РежимыПодключенияВнешнихМодулейОбластейДанных</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>InformationRegister.ОчередьРасширенийДляОповещений</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>Constant.ПредставлениеОбластиДанных</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>Constant.ВыполнитьРезервноеКопированиеОбластиДанных</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>Catalog.ОчередьЗаданий</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>InformationRegister.ЗапросыРазрешенийНаИспользованиеВнешнихРесурсовОбластейДанных</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>InformationRegister.СведенияОПользователяхСервиса</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>InformationRegister.ПрименениеРазрешенийНаИспользованиеВнешнихРесурсовОбластейДанных</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
 					<xr:Metadata>InformationRegister.БлокировкиСеансовОбластейДанных</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>InformationRegister.ИспользованиеПоставляемыхРасширенийВОбластяхДанных</xr:Metadata>
 					<xr:Use>Use</xr:Use>
 					<xr:ConditionalSeparation/>
 				</xr:Item>

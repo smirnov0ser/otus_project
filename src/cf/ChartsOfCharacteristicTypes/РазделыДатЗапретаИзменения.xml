@@ -40,9 +40,6 @@
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<CharacteristicExtValues/>
 			<Type>
-				<v8:Type>cfg:CatalogRef._ДемоБанковскиеСчета</v8:Type>
-				<v8:Type>cfg:EnumRef._ДемоЮридическоеФизическоеЛицо</v8:Type>
-				<v8:Type>cfg:CatalogRef._ДемоМестаХранения</v8:Type>
 				<v8:Type>cfg:ChartOfCharacteristicTypesRef.РазделыДатЗапретаИзменения</v8:Type>
 			</Type>
 			<Hierarchical>false</Hierarchical>

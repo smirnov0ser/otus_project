@@ -18,14 +18,7 @@
 			<Comment/>
 			<Type>
 				<v8:Type>cfg:CatalogObject.РассылкиОтчетов</v8:Type>
-				<v8:Type>cfg:CatalogObject._ДемоФизическиеЛица</v8:Type>
-				<v8:Type>cfg:ChartOfCharacteristicTypesObject._ДемоВидыСубконто</v8:Type>
-				<v8:Type>cfg:CatalogObject._ДемоКонтрагенты</v8:Type>
-				<v8:Type>cfg:ChartOfAccountsObject._ДемоОсновной</v8:Type>
-				<v8:Type>cfg:BusinessProcessObject._ДемоЗаданиеСРолевойАдресацией</v8:Type>
-				<v8:Type>cfg:ChartOfCalculationTypesObject._ДемоОсновныеНачисления</v8:Type>
 				<v8:Type>cfg:CatalogObject.ВидыКонтактнойИнформации</v8:Type>
-				<v8:Type>cfg:CatalogObject._ДемоХарактеристики</v8:Type>
 				<v8:Type>cfg:CatalogObject.ИдентификаторыОбъектовМетаданных</v8:Type>
 			</Type>
 		</Properties>

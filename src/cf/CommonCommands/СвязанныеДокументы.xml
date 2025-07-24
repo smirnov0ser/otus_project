@@ -24,11 +24,7 @@
 			</Picture>
 			<Shortcut/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
-			<CommandParameterType>
-				<v8:Type>cfg:CatalogRef._ДемоДоговорыКонтрагентов</v8:Type>
-				<v8:Type>cfg:DocumentRef._ДемоЗаказПокупателя</v8:Type>
-				<v8:Type>cfg:DocumentRef._ДемоРеализацияТоваров</v8:Type>
-			</CommandParameterType>
+			<CommandParameterType/>
 			<ParameterUseMode>Single</ParameterUseMode>
 			<ModifiesData>false</ModifiesData>
 			<OnMainServerUnavalableBehavior>Auto</OnMainServerUnavalableBehavior>

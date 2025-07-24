@@ -166,18 +166,6 @@
 					<Comment/>
 				</Properties>
 			</EnumValue>
-			<EnumValue uuid="cacaddb1-be8e-4a37-afb7-215644236567">
-				<Properties>
-					<Name>_ДемоДругойПровайдер</Name>
-					<Synonym>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Демо: Другой провайдер</v8:content>
-						</v8:item>
-					</Synonym>
-					<Comment/>
-				</Properties>
-			</EnumValue>
 		</ChildObjects>
 	</Enum>
 </MetaDataObject>

@@ -271,7 +271,6 @@
 				<Field>Подписать</Field>
 			</Save>
 			<FunctionalOptions>
-				<Item>FunctionalOption.ИспользоватьЭлектроннуюПодписьВМоделиСервиса</Item>
 				<Item>FunctionalOption.ИспользоватьЭлектронныеПодписи</Item>
 			</FunctionalOptions>
 		</Attribute>

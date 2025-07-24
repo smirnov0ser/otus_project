@@ -20,8 +20,6 @@
 				<v8:Type>cfg:CatalogRef.ВнешниеПользователи</v8:Type>
 				<v8:Type>cfg:CatalogRef.ГруппыВнешнихПользователей</v8:Type>
 				<v8:Type>cfg:CatalogRef.ГруппыПользователей</v8:Type>
-				<v8:Type>cfg:ExchangePlanRef._ДемоОбменВРаспределеннойИнформационнойБазе</v8:Type>
-				<v8:Type>cfg:ExchangePlanRef._ДемоАвтономнаяРабота</v8:Type>
 				<v8:Type>cfg:CatalogRef.Пользователи</v8:Type>
 				<v8:Type>cfg:EnumRef.ВидыНазначенияДатЗапрета</v8:Type>
 			</Type>

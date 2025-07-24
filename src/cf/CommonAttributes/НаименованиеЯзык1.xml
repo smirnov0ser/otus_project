@@ -70,11 +70,6 @@
 					<xr:ConditionalSeparation/>
 				</xr:Item>
 				<xr:Item>
-					<xr:Metadata>ChartOfCalculationTypes._ДемоОсновныеНачисления</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
 					<xr:Metadata>Catalog.ЗначенияСвойствОбъектовИерархия</xr:Metadata>
 					<xr:Use>Use</xr:Use>
 					<xr:ConditionalSeparation/>
@@ -86,11 +81,6 @@
 				</xr:Item>
 				<xr:Item>
 					<xr:Metadata>Catalog.ЗначенияСвойствОбъектов</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>Catalog._ДемоНоменклатура</xr:Metadata>
 					<xr:Use>Use</xr:Use>
 					<xr:ConditionalSeparation/>
 				</xr:Item>

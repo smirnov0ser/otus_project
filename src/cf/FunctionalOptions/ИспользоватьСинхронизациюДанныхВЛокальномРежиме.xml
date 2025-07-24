@@ -25,7 +25,6 @@
 				<xr:Object>CommonCommand.ПолучитьНастройкиСинхронизацииДляДругойПрограммы</xr:Object>
 				<xr:Object>CommonCommand.СобытияОтправки</xr:Object>
 				<xr:Object>CommonCommand.СинхронизироватьСДополнительнымиПараметрами</xr:Object>
-				<xr:Object>CommonCommand._ДемоРаспределеннаяИнформационнаяБаза</xr:Object>
 				<xr:Object>CommonForm.НастройкиСинхронизацииДанных</xr:Object>
 				<xr:Object>CommonCommand.ЗагрузитьКомплектПравил</xr:Object>
 			</Content>

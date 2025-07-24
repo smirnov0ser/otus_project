@@ -5,22 +5,6 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Document._ДемоСчетНаОплатуПокупателю</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant.МаксимальнаяДлительностьВыполненияИсполняющегоФоновогоЗадания</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant.АдресСервисаНовостей</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.ДоступныеЛицензии</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.СостоянияРассылокОтчетов</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -33,10 +17,6 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister.ПоставляемыеДанныеТребующиеОбработки</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Catalog.ШаблоныАнкет</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -45,19 +25,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Constant.ИспользуетсяМиграцияПриложений</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.НаличиеФайлов</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant._ДемоИспользоватьХарактеристики</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant.ИспользоватьЭлектроннуюПодписьВМоделиСервиса</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -81,27 +49,11 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Constant.КопироватьОбластиДанныхИзЭталонной</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Document._ДемоПоручениеЭкспедитору</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.СообщенияОбменаДанными</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
 		<Metadata>Catalog.НаборыДополнительныхРеквизитовИСведений</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Catalog.Удалить_ДемоОбщиеСведения</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.РазмерОбъектовМетаданныхПриложений</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -130,10 +82,6 @@
 	</Item>
 	<Item>
 		<Metadata>Constant.ДатаУведомленияОНовыхЗадачах</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.ВыгрузкаЗагрузкаОбъектовМетаданных</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -225,14 +173,6 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Catalog._ДемоКонтактныеЛицаПартнеров</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.СостоянияВыгрузкиЗагрузкиОбластейДанных</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.ЗаявленияНаВыпускСертификата</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -242,10 +182,6 @@
 	</Item>
 	<Item>
 		<Metadata>Constant.АдресПубликацииИнформационнойБазыВИнтернете</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Catalog.СообщенияОбластейДанных</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -265,15 +201,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister.ПодпискиПолучателей</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Constant.ЗапретитьОтображениеНебезопасногоСодержимогоВПисьмах</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.ИнцидентыОткрытые</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -286,10 +214,6 @@
 	</Item>
 	<Item>
 		<Metadata>InformationRegister.ИдентификаторыПолученныхЭлектронныхПисем</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.ФайлыВременногоХранилища</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -310,10 +234,6 @@
 	</Item>
 	<Item>
 		<Metadata>InformationRegister.СлужебныеАдресныеСведения</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant.АдресПрограммногоИнтерфейсаСлужбыПоддержки</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -357,10 +277,6 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Catalog._ДемоСчетНаОплатуПокупателюПрисоединенныеФайлы</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.ИерархияГруппПользователей</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -369,19 +285,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Catalog._ДемоКонтрагенты</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Constant.ИспользоватьПризнакРассмотрено</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Catalog._ДемоПроектыПрисоединенныеФайлы</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.НастройкиУчетныхСистем</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -390,14 +294,6 @@
 	</Item>
 	<Item>
 		<Metadata>Constant.НастройкиРегистрацииСобытийДоступаКДанным</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Document._ДемоСчетФактураПолученный</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant._ДемоОграничиватьДоступПоНоменклатуре</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -417,31 +313,11 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister.РейтингАктивностиОбластейДанных</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.РазрешенияНаИспользованиеВнешнихРесурсов</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
 		<Metadata>InformationRegister.НастройкиСинхронизацииФайлов</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant._ДемоУчитыватьНДС</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.ЗапущенныеОбработчикиОчередиЗаданий</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Catalog.ОбработчикиОчередиЗаданий</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.КлючиДоступаКРегистру_ДемоЗагружаемыеПоступленияОтЮридическихЛиц</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -453,27 +329,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Catalog._ДемоФизическиеЛица</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant.РежимИспользованияИнформационнойБазы</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Catalog.КлючевыеОперации</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Catalog._ДемоГруппыДоступаНоменклатуры</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant.СообщениеБлокировкиПриОбновленииКонфигурации</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister._ДемоРеестрДокументов</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -485,15 +341,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Catalog._ДемоМестаХранения</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Catalog.ВариантыОтветовАнкет</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Catalog.ОбщиеДанныеИнформационногоЦентра</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -501,19 +349,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Constant.ВнутреннийАдресМенеджераСервиса</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Constant.АдресДляВосстановленияПароляУчетнойЗаписи</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant._ДемоНеИспользоватьНесколькоОрганизаций</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Catalog._ДемоДоговорыКонтрагентов</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -541,10 +377,6 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Catalog.ИнформационныеСсылкиДляФорм</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.СостоянияПроверокВеденияУчета</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -557,27 +389,11 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Constant.КлючОбластиДанных</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.МиграцияПриложенийОчередьЗагрузки</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister._ДемоЗагружаемыеПоступленияОтЮридическихЛиц</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Constant.ИспользоватьСкрытиеПерсональныхДанныхСубъектов</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
 		<Metadata>InformationRegister.СрокиХраненияПерсональныхДанных</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant.ДатаПоследнегоСтартаКлиентскогоСеанса</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -593,23 +409,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister.КэшДанныхКлассификаторов</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant.ПрефиксСервисаДляНовостей</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Catalog._ДемоХарактеристики</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.ДанныеОбработанныеВЦентральномУзлеРИБ</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant._ДемоОграничиватьДоступПоФизическимЛицам</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -622,14 +422,6 @@
 	</Item>
 	<Item>
 		<Metadata>Catalog.УчетныеЗаписиDSS</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>AccumulationRegister._ДемоОстаткиТоваровВМестахХранения</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant.КаталогОбменаФайламиВМоделиСервиса</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -665,10 +457,6 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister.ПоставляемыеДанныеТребующиеОбработкиВОбластях</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Constant.ИспользоватьПодчиненныеБизнесПроцессы</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -685,10 +473,6 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister.НастройкиТранспортаОбменаСообщениями</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.СтатусыСинхронизацииФайловСОблачнымСервисом</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -697,15 +481,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Constant.ВариантОбновленияКлассификаторов</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.ДанныеПроизводственногоКалендаря</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Document._ДемоОприходованиеТоваров</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -733,15 +509,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Catalog._ДемоГруппыДоступаПартнеров</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.СессииОбменаСообщениямиСистемы</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Document._ДемоЗаказПокупателя</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -761,35 +529,11 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister.ПросмотренныеДанныеИнформационногоЦентра</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant.ЗагружатьИУстанавливатьИсправленияАвтоматически</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Document.ЗапланированноеВзаимодействие</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Catalog.ШаблоныЗаданийОчереди</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister._ДемоРеестрСкладскихДокументов</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Constant.СписокРасширенийФайловOpenDocument</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.СостоянияИнтеграцииОбъектов</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Catalog._ДемоНоменклатураПрисоединенныеФайлы</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -798,10 +542,6 @@
 	</Item>
 	<Item>
 		<Metadata>Constant.ДатаПоследнейВыгрузкиЗамеровПроизводительностиUTC</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Catalog.ПоставщикиУслугСервиса</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -825,35 +565,11 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Constant.ПоддержкаРезервногоКопирования</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Constant.ПользовательСтандартногоИнтерфейсаOData</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister._ДемоЦеныНоменклатуры</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant._ДемоОсновнаяОрганизация</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.НастройкиОтправителя</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.ОграничениеСкоростиОтсылкиИнцидентов</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.ВерсииПодсистем</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Catalog._ДемоПартнеры</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -873,23 +589,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister.КэшДанныхВнешнихКомпонент</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.УдалитьВерсииКлассификаторовОбластейДанных</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.ПредметыПапкиВзаимодействий</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant.АдресСервисаЦентраИдей</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.ОбластиДанных</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -905,19 +605,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Constant._ДемоИмяКонфигурацииВОбменеСБиблиотекойСтандартныхПодсистем</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Constant.ИзвлекатьТекстыФайловНаСервере</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant._ДемоОграничиватьДоступПоПартнерам</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.СвойстваЗаданий</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -941,19 +629,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister._ДемоГрафикиРаботы</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>AccumulationRegister._ДемоОборотыПоСчетамНаОплату</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Document.СообщениеSMS</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant.КаталогОбменаФайламиВМоделиСервисаLinux</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -973,23 +649,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Constant.ИспользованиеКаталогаРасширенийВМоделиСервиса</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Catalog._ДемоКассы</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Document._ДемоНачислениеЗарплаты</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.ЗапросыРазрешенийНаИспользованиеВнешнихРесурсов</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Document._ДемоСписаниеБезналичныхДенежныхСредств</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -1001,35 +661,11 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Document._ДемоПеремещениеТоваров</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Catalog.УдалитьОчередьЗаданий</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.ЗамерыОбластиСтатистики</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Constant.КонечнаяТочкаМенеджераСервиса</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Constant.ПараметрыБлокировкиРаботыСВнешнимиРесурсами</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.ОбъектыКОтправке</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant._ДемоИспользоватьКонтактныеЛицаПартнеров</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.ФайлыОбластейДанных</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -1049,23 +685,11 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister._ДемоРаботникиОрганизаций</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Constant.УдалитьНастройкиВходаПользователей</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister.АвторизацияВСервисе1СФреш</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Constant.ПараметрыАдресногоКлассификатора</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.ВременныеИдентификаторыЗапросов</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -1113,10 +737,6 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister.УдалитьСводныеПриложенияПорядокВыгрузкиОбъектов</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.СклоненияПредставленийОбъектов</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -1133,15 +753,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister._ДемоОтветственныеЛица</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.КлассификаторыМЧД</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.РежимыПодключенияВнешнихМодулейВМоделиСервиса</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -1153,15 +765,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>CalculationRegister._ДемоОсновныеНачисления.Recalculation.ПерерасчетОсновныхНачислений</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.ДополнительныеАдресныеСведения</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant.МаксимальноеКоличествоИсполняющихФоновыхЗаданий</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -1217,10 +821,6 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister.РазрешенияНаИспользованиеВнешнихРесурсовОбластейДанных</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.ТаблицыГруппДоступа</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -1241,15 +841,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Constant.ПрефиксОбластиДанных</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Catalog.РассылкиОтчетов</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.ИсторияЗапускаЗаданийОчереди</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -1297,19 +889,11 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Catalog._ДемоПроекты</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Catalog.ДополнительныеОтчетыИОбработки</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
 		<Metadata>Catalog.ВнешниеПользователи</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant.ЧасовойПоясОбластиДанных</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -1329,19 +913,11 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Document._ДемоКорректировкаОстатковТоваровВМестахХранения</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.НастройкиПолномочийМЧД</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
 		<Metadata>InformationRegister.ЗначенияГруппДоступа</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister._ДемоЗаведующиеМестамиХранения</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -1374,10 +950,6 @@
 	</Item>
 	<Item>
 		<Metadata>InformationRegister.ГруппыЗначенийДоступа</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Catalog.ПоставляемыеРасширения</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -1433,10 +1005,6 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>ChartOfCalculationTypes._ДемоОсновныеНачисления</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.РучныеИзмененияГрафиковРаботы</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -1453,10 +1021,6 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister.ОчередьОбновляемыхПоставляемыхРасширенийВОбластяхДанных</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Constant.ИспользуютсяПрофилиБезопасности</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -1465,19 +1029,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Constant.БлокировкаОтправкиБыстрыхСообщений</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>AccountingRegister._ДемоЖурналПроводокБухгалтерскогоУчета</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Constant.ОграничиватьДоступНаУровнеЗаписейУниверсально</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>CalculationRegister._ДемоОсновныеНачисления</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -1541,15 +1093,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister.СводныеПриложенияСостояниеЗагрузки</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.УдалитьНастройкиТранспортаОбмена</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Catalog.ИсторияПроверкиИКорректировкиДанныхПрисоединенныеФайлы</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -1581,15 +1125,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Catalog.УслугиСервиса</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.ПравилаДляОбменаДанными</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.ЧастиВыгрузкиЗагрузкиОбластейДанных</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -1605,43 +1141,11 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister.РазмерПриложений</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant.ФайлКлассификаторов</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Catalog.ЗначенияСвойствОбъектов</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister.УдалитьПараметрыИнтернетПоддержкиПользователей</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant._ДемоИспользоватьНесколькоОрганизаций</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.ИнцидентыОтложенныеПроверки</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>AccountingRegister._ДемоЖурналПроводокБухгалтерскогоУчетаБезКорреспонденции</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Document._ДемоОтпускаСотрудников</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.ДатыПоследнейЗагрузкиПочтовыхСообщений</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Catalog._ДемоБанковскиеСчета</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -1665,10 +1169,6 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Constant.ВнешнийАдресУправляющегоПриложения</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Constant.СписокЗапрещенныхРасширений</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -1685,19 +1185,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Catalog._ДемоСтавкиНДС</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>ChartOfCharacteristicTypes._ДемоВидыСубконто</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Catalog.СообщениеSMSПрисоединенныеФайлы</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Catalog._ДемоОрганизации</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -1709,27 +1197,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Catalog._ДемоНоменклатура</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant.АдресУправленияКонференцией</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.КлассификаторФИО</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant._ДемоОсновнойПартнерВЗаявленииНаСертификат</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.ИспользованиеДополнительныхОтчетовИОбработокСервисаВАвтономномРабочемМесте</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.ВерсииКлассификаторов</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -1749,39 +1217,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister.ЗанятыеЛицензии</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant.АдресЦКК</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Document._ДемоСписаниеТоваров</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Document._ДемоРасходныйКассовыйОрдер</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant.РазмерБлокаПередачиФайла</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Constant.ИспользоватьНапоминанияПользователя</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.ВерсииКлассификаторовОбластейДанных</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant.АдресКриптосервиса</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.ЗапросыРазрешенийНаИспользованиеВнешнихРесурсовВМоделиСервиса</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -1809,15 +1245,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister.КлючиДоступаКРегистру_ДемоОстаткиТоваровВМестахХранения</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Constant.ИспользоватьСервисПереводаТекста</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Catalog._ДемоКассыККМ</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -1825,23 +1253,11 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Catalog.ВерсииПоставляемыхРасширений</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.РезультатыОбменаДанными</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister.ОчередьИнсталляцииПоставляемыхРасширенийВОбластиДанных</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.БуферОперацийСтатистики</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Document._ДемоРеализацияТоваров</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -1889,23 +1305,11 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Constant.ИспользоватьПрофилиБезопасностиДляРасширений</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Constant.СведенияОбОбновленииИБ</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister.СводныеПриложенияСостояниеВыгрузки</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Catalog.ГруппыДоступа</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant.НезависимоеИспользованиеРасширенийВМоделиСервиса</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -1914,10 +1318,6 @@
 	</Item>
 	<Item>
 		<Metadata>Constant.КоличествоПотоковОбновленияИнформационнойБазы</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.МиграцияПриложенийСостояниеВыгрузки</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -1930,10 +1330,6 @@
 	</Item>
 	<Item>
 		<Metadata>Constant.ОтложенноеОбновлениеВГлавномУзлеЗавершеноУспешно</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>ChartOfAccounts._ДемоОсновной</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -1966,18 +1362,6 @@
 	</Item>
 	<Item>
 		<Metadata>Constant.ЭтоАвтономноеРабочееМесто</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.ПрименениеРазрешенийНаИспользованиеВнешнихРесурсовВМоделиСервиса</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant.КаталогРасширенийКоличествоЭлементовВВыборке</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Catalog.ОповещенияПользователей</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -2017,15 +1401,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Catalog.ИсторияПроверкиИКорректировкиДанных</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.ФиксацияОбработкиДанныхОбработчиками</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant.АдресСервисаПодключенияЭлектроннойПодписиВМоделиСервиса</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -2041,23 +1417,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister.РежимыПодключенияВнешнихМодулейОбластейДанных</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Catalog._ДемоОрганизацииПрисоединенныеФайлы</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.КлючиДоступаПользователей</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Document._ДемоПоступлениеТоваров</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.ОчередьРасширенийДляОповещений</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -2070,10 +1430,6 @@
 	</Item>
 	<Item>
 		<Metadata>InformationRegister.ДомаЗданияСтроения</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister._ДемоОбщиеСведения</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -2093,23 +1449,11 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Catalog.ТипыИнформацииИнформационногоЦентра</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.ДанныеОчищаемойОбласти</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.КодировкиФайлов</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
 		<Metadata>InformationRegister.ЗамерыОперацииСтатистики</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.ХранилищеСертификатов</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -2129,27 +1473,11 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Constant.ПредставлениеОбластиДанных</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.ЗамерыСтатистики</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
 		<Metadata>InformationRegister.КомментарииСтатистики</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant.ИспользоватьКонтрольТарификации</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Catalog.ПолныеПутиКФормам</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant.ВыполнитьРезервноеКопированиеОбластиДанных</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -2173,15 +1501,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Catalog.ОчередьЗаданий</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Constant.ПовторитьЗагрузкуСообщенияОбменаДаннымиПередЗапуском</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.РазрешенияНаИспользованиеВнешнихРесурсовВМоделиСервиса</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -2190,10 +1510,6 @@
 	</Item>
 	<Item>
 		<Metadata>InformationRegister.КонтактыВзаимодействий</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Catalog._ДемоВидыНоменклатуры</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -2213,14 +1529,6 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister.ЗапросыРазрешенийНаИспользованиеВнешнихРесурсовОбластейДанных</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.СведенияОПользователяхСервиса</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Document.ЭлектронноеПисьмоВходящее</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -2233,15 +1541,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Catalog._ДемоКлючиАналитикиНоменклатуры</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.ПоставляемыеМакетыПечати</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Catalog._ДемоПодразделения</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -2249,39 +1549,11 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister.МиграцияПриложенийСостояниеЗагрузки</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.РежимыПодключенияВнешнихМодулей</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>Constant.ТипыИнцидентовЦККАктуальны</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Catalog.СообщенияСистемы</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.УдалитьСводныеПриложенияСостояниеВыгрузки</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Catalog.ПоставляемыеДанные</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.БезопасноеХранилищеДанных</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>Constant.КаталогРасширенийОтправлятьПревьюПриЗапросеСписка</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.ПрименениеРазрешенийНаИспользованиеВнешнихРесурсовОбластейДанных</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
@@ -2297,10 +1569,6 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>InformationRegister._ДемоНаличиеЗаметокПоПредмету</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>InformationRegister.СведенияОПользователях</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
@@ -2313,19 +1581,7 @@
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>
-		<Metadata>BusinessProcess._ДемоЗаданиеСРолевойАдресацией</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
 		<Metadata>Constant.ИспользоватьДатуНачалаЗадач</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.СводныеПриложенияОчередьЗагрузки</Metadata>
-		<AutoRecord>Deny</AutoRecord>
-	</Item>
-	<Item>
-		<Metadata>InformationRegister.ИспользованиеПоставляемыхРасширенийВОбластяхДанных</Metadata>
 		<AutoRecord>Deny</AutoRecord>
 	</Item>
 	<Item>

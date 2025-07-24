@@ -17,7 +17,6 @@
 			</Synonym>
 			<Comment/>
 			<Type>
-				<v8:Type>cfg:DocumentObject._ДемоНачислениеЗарплаты</v8:Type>
 				<v8:Type>cfg:DocumentObject.Встреча</v8:Type>
 				<v8:Type>cfg:DocumentObject.ЭлектронноеПисьмоВходящее</v8:Type>
 				<v8:Type>cfg:DocumentObject.ЗапланированноеВзаимодействие</v8:Type>

@@ -17,23 +17,12 @@
 			</Synonym>
 			<Comment/>
 			<Type>
-				<v8:Type>cfg:DocumentObject._ДемоНачислениеЗарплаты</v8:Type>
-				<v8:Type>cfg:DocumentObject._ДемоСчетНаОплатуПокупателю</v8:Type>
-				<v8:Type>cfg:DocumentObject._ДемоСчетФактураПолученный</v8:Type>
-				<v8:Type>cfg:DocumentObject._ДемоРеализацияТоваров</v8:Type>
 				<v8:Type>cfg:DocumentObject.Встреча</v8:Type>
-				<v8:Type>cfg:DocumentObject._ДемоПоступлениеТоваров</v8:Type>
-				<v8:Type>cfg:DocumentObject._ДемоПоручениеЭкспедитору</v8:Type>
 				<v8:Type>cfg:DocumentObject.ЭлектронноеПисьмоВходящее</v8:Type>
-				<v8:Type>cfg:DocumentObject._ДемоРасходныйКассовыйОрдер</v8:Type>
-				<v8:Type>cfg:DocumentObject._ДемоПеремещениеТоваров</v8:Type>
-				<v8:Type>cfg:DocumentObject._ДемоСписаниеТоваров</v8:Type>
 				<v8:Type>cfg:DocumentObject.ЗапланированноеВзаимодействие</v8:Type>
-				<v8:Type>cfg:DocumentObject._ДемоОприходованиеТоваров</v8:Type>
 				<v8:Type>cfg:DocumentObject.Анкета</v8:Type>
 				<v8:Type>cfg:DocumentObject.СообщениеSMS</v8:Type>
 				<v8:Type>cfg:DocumentObject.ТелефонныйЗвонок</v8:Type>
-				<v8:Type>cfg:DocumentObject._ДемоЗаказПокупателя</v8:Type>
 				<v8:Type>cfg:DocumentObject.ЭлектронноеПисьмоИсходящее</v8:Type>
 			</Type>
 		</Properties>

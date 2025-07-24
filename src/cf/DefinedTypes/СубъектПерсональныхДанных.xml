@@ -17,8 +17,6 @@
 			</Synonym>
 			<Comment/>
 			<Type>
-				<v8:Type>cfg:CatalogRef._ДемоФизическиеЛица</v8:Type>
-				<v8:Type>cfg:CatalogRef._ДемоПартнеры</v8:Type>
 				<v8:Type>cfg:CatalogRef.ИдентификаторыОбъектовМетаданных</v8:Type>
 			</Type>
 		</Properties>

@@ -17,9 +17,7 @@
 			</Synonym>
 			<Comment/>
 			<Type>
-				<v8:Type>cfg:DocumentRef._ДемоСчетНаОплатуПокупателю</v8:Type>
 				<v8:Type>cfg:TaskRef.ЗадачаИсполнителя</v8:Type>
-				<v8:Type>cfg:DocumentRef._ДемоЗаказПокупателя</v8:Type>
 				<v8:Type>cfg:CatalogRef.Файлы</v8:Type>
 				<v8:Type>cfg:CatalogRef.Пользователи</v8:Type>
 			</Type>

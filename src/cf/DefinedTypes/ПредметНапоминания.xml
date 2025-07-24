@@ -17,12 +17,9 @@
 			</Synonym>
 			<Comment/>
 			<Type>
-				<v8:Type>cfg:CatalogRef._ДемоФизическиеЛица</v8:Type>
-				<v8:Type>cfg:DocumentRef._ДемоСчетНаОплатуПокупателю</v8:Type>
 				<v8:Type>cfg:CatalogRef.Заметки</v8:Type>
 				<v8:Type>cfg:TaskRef.ЗадачаИсполнителя</v8:Type>
 				<v8:Type>cfg:CatalogRef.СертификатыКлючейЭлектроннойПодписиИШифрования</v8:Type>
-				<v8:Type>cfg:CatalogRef._ДемоКонтрагенты</v8:Type>
 				<v8:Type>cfg:CatalogRef.ИдентификаторыОбъектовМетаданных</v8:Type>
 			</Type>
 		</Properties>

@@ -16,7 +16,6 @@
 				<xr:Object>InformationRegister.КлючиДоступаГруппДоступа</xr:Object>
 				<xr:Object>InformationRegister.КлючиДоступаКОбъектам</xr:Object>
 				<xr:Object>InformationRegister.КлючиДоступаКРегистрам</xr:Object>
-				<xr:Object>InformationRegister.КлючиДоступаКРегистру_ДемоОстаткиТоваровВМестахХранения</xr:Object>
 				<xr:Object>Catalog.КлючиДоступа</xr:Object>
 				<xr:Object>Constant.КоличествоПотоковОбновленияДоступа</xr:Object>
 				<xr:Object>Constant.ПоследнееОбновлениеДоступа</xr:Object>

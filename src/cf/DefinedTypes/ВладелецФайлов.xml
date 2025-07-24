@@ -18,12 +18,7 @@
 			<Comment/>
 			<Type>
 				<v8:Type>cfg:BusinessProcessRef.Задание</v8:Type>
-				<v8:Type>cfg:CatalogRef._ДемоФизическиеЛица</v8:Type>
 				<v8:Type>cfg:CatalogRef.ПапкиФайлов</v8:Type>
-				<v8:Type>cfg:CatalogRef._ДемоНоменклатура</v8:Type>
-				<v8:Type>cfg:DocumentRef._ДемоЗаказПокупателя</v8:Type>
-				<v8:Type>cfg:CatalogRef._ДемоПартнеры</v8:Type>
-				<v8:Type>cfg:BusinessProcessRef._ДемоЗаданиеСРолевойАдресацией</v8:Type>
 			</Type>
 		</Properties>
 	</DefinedType>

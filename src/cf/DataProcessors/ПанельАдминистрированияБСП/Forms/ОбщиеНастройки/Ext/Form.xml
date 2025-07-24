@@ -1782,32 +1782,6 @@
 				</UsualGroup>
 			</ChildItems>
 		</UsualGroup>
-		<UsualGroup name="_ДемоГруппаДругиеОбщиеНастройки" id="1795">
-			<Title>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Демо группа другие общие настройки</v8:content>
-				</v8:item>
-			</Title>
-			<Group>Vertical</Group>
-			<Behavior>Usual</Behavior>
-			<Representation>None</Representation>
-			<ShowTitle>false</ShowTitle>
-			<ExtendedTooltip name="_ДемоГруппаДругиеОбщиеНастройкиРасширеннаяПодсказка" id="1882"/>
-			<ChildItems>
-				<Button name="_ДемоДругиеОбщиеНастройки" id="1797">
-					<Type>Hyperlink</Type>
-					<CommandName>DataProcessor._ДемоПанельАдминистрирования.Command.ДругиеОбщиеНастройки</CommandName>
-					<Title>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Демо: Другие настройки...</v8:content>
-						</v8:item>
-					</Title>
-					<ExtendedTooltip name="_ДемоДругиеОбщиеНастройкиРасширеннаяПодсказка" id="1883"/>
-				</Button>
-			</ChildItems>
-		</UsualGroup>
 	</ChildItems>
 	<Attributes>
 		<Attribute name="НаборКонстант" id="1">

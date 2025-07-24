@@ -21,19 +21,14 @@
 			</Synonym>
 			<Comment/>
 			<Type>
-				<v8:Type>cfg:DocumentRef._ДемоСчетНаОплатуПокупателю</v8:Type>
-				<v8:Type>cfg:CatalogRef._ДемоДоговорыКонтрагентов</v8:Type>
-				<v8:Type>cfg:DocumentRef._ДемоЗаказПокупателя</v8:Type>
-				<v8:Type>cfg:DocumentRef._ДемоРеализацияТоваров</v8:Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>10</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
 			</Type>
 			<UseStandardCommands>false</UseStandardCommands>
-			<Content>
-				<xr:Item xsi:type="xr:MDObjectRef">Document._ДемоЗаказПокупателя.Attribute.Договор</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">Document._ДемоЗаказПокупателя.TabularSection.СчетаНаОплату.Attribute.Счет</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">Document._ДемоРеализацияТоваров.TabularSection.СчетаНаОплату.Attribute.СчетНаОплату</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">Document._ДемоСчетНаОплатуПокупателю.Attribute.Договор</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">Document._ДемоСчетНаОплатуПокупателю.Attribute.Основание</xr:Item>
-			</Content>
+			<Content/>
 			<DefaultForm/>
 			<AuxiliaryForm/>
 			<ListPresentation/>

@@ -44,16 +44,6 @@
 					<xr:Use>Use</xr:Use>
 					<xr:ConditionalSeparation/>
 				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>InformationRegister._ДемоЗаведующиеМестамиХранения</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
-				<xr:Item>
-					<xr:Metadata>Catalog._ДемоНоменклатура</xr:Metadata>
-					<xr:Use>Use</xr:Use>
-					<xr:ConditionalSeparation/>
-				</xr:Item>
 			</Content>
 			<AutoUse>DontUse</AutoUse>
 			<DataSeparation>DontUse</DataSeparation>

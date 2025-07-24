@@ -11,7 +11,6 @@
 			</Synonym>
 			<Comment/>
 			<Source>
-				<v8:Type>cfg:BusinessProcessManager._ДемоЗаданиеСРолевойАдресацией</v8:Type>
 				<v8:Type>cfg:BusinessProcessManager.Задание</v8:Type>
 			</Source>
 			<Event>PresentationGetProcessing</Event>

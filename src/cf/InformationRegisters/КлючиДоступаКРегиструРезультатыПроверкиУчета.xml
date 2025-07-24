@@ -345,7 +345,6 @@
 					<Comment/>
 					<Type>
 						<v8:Type>cfg:EnumRef.ДополнительныеЗначенияДоступа</v8:Type>
-						<v8:Type>cfg:CatalogRef._ДемоОрганизации</v8:Type>
 					</Type>
 					<PasswordMode>false</PasswordMode>
 					<Format/>

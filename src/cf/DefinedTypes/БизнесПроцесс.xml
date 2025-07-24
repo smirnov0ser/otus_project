@@ -18,7 +18,6 @@
 			<Comment/>
 			<Type>
 				<v8:Type>cfg:BusinessProcessRef.Задание</v8:Type>
-				<v8:Type>cfg:BusinessProcessRef._ДемоЗаданиеСРолевойАдресацией</v8:Type>
 			</Type>
 		</Properties>
 	</DefinedType>

@@ -22,33 +22,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Document._ДемоСчетНаОплатуПокупателю</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Posting</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>UndoPosting</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>SessionParameter.РазрешенныйПользователь</name>
 		<right>
 			<name>Get</name>
@@ -160,17 +133,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Constant._ДемоИспользоватьХарактеристики</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>SessionParameter.ПараметрыОграниченияДоступа</name>
 		<right>
 			<name>Get</name>
@@ -207,13 +169,6 @@
 		</right>
 	</object>
 	<object>
-		<name>DocumentJournal._ДемоСкладскиеДокументы</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>Constant.ИспользоватьШаблоныСообщений</name>
 		<right>
 			<name>Read</name>
@@ -232,33 +187,6 @@
 		</right>
 		<right>
 			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Document._ДемоПоручениеЭкспедитору</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Posting</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>UndoPosting</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -547,25 +475,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog._ДемоКонтактныеЛицаПартнеров</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>InformationRegister.ЗаявленияНаВыпускСертификата</name>
 		<right>
 			<name>Read</name>
@@ -592,17 +501,6 @@
 		</right>
 		<right>
 			<name>Delete</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.ИмяПользователяУчетнойСистемы</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -636,13 +534,6 @@
 		</right>
 		<right>
 			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>SessionParameter.БлокировкаСеансаБТС</name>
-		<right>
-			<name>Get</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -817,33 +708,7 @@
 		</right>
 	</object>
 	<object>
-		<name>SessionParameter.МаркерыБезопасности</name>
-		<right>
-			<name>Get</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>Catalog.ЗапланированноеВзаимодействиеПрисоединенныеФайлы</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog._ДемоСчетНаОплатуПокупателюПрисоединенныеФайлы</name>
 		<right>
 			<name>Read</name>
 			<value>true</value>
@@ -884,25 +749,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog._ДемоКонтрагенты</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>Constant.ИспользоватьПризнакРассмотрено</name>
 		<right>
 			<name>Read</name>
@@ -910,25 +756,6 @@
 		</right>
 		<right>
 			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog._ДемоПроектыПрисоединенныеФайлы</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -944,47 +771,9 @@
 		</right>
 	</object>
 	<object>
-		<name>Document._ДемоСчетФактураПолученный</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Posting</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>UndoPosting</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>SessionParameter.ВсеВидыДоступаКромеСпециальных</name>
 		<right>
 			<name>Get</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant._ДемоОграничиватьДоступПоНоменклатуре</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -1011,62 +800,7 @@
 		</right>
 	</object>
 	<object>
-		<name>InformationRegister.РейтингАктивностиОбластейДанных</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>InformationRegister.НастройкиСинхронизацииФайлов</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant._ДемоУчитыватьНДС</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant._ДемоОтправленоЗаписей</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant._ДемоКодНовогоУзлаПланаОбмена</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.КлючиДоступаКРегистру_ДемоЗагружаемыеПоступленияОтЮридическихЛиц</name>
 		<right>
 			<name>Read</name>
 			<value>true</value>
@@ -1106,62 +840,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog._ДемоФизическиеЛица</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog._ДемоГруппыДоступаНоменклатуры</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>DocumentJournal._ДемоЖурналВсехДокументов</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister._ДемоРеестрДокументов</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>Catalog.ВидыПроверок</name>
 		<right>
 			<name>Read</name>
@@ -1184,25 +862,6 @@
 		<name>SessionParameter.ПараметрыАвторизацииВРаспределенномРеестре</name>
 		<right>
 			<name>Get</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog._ДемоМестаХранения</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -1248,36 +907,6 @@
 		<name>SessionParameter.ВидыДоступаСОтключеннымИспользованием</name>
 		<right>
 			<name>Get</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant._ДемоНеИспользоватьНесколькоОрганизаций</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog._ДемоДоговорыКонтрагентов</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -1394,17 +1023,6 @@
 		</right>
 	</object>
 	<object>
-		<name>InformationRegister._ДемоЗагружаемыеПоступленияОтЮридическихЛиц</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>Constant.ИспользоватьСкрытиеПерсональныхДанныхСубъектов</name>
 		<right>
 			<name>Read</name>
@@ -1475,48 +1093,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog._ДемоХарактеристики</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.ПараметрыБлокировкиРаботыССервисамиИнтернетПоддержки</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>InformationRegister.ДанныеОбработанныеВЦентральномУзлеРИБ</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant._ДемоОграничиватьДоступПоФизическимЛицам</name>
 		<right>
 			<name>Read</name>
 			<value>true</value>
@@ -1564,17 +1141,6 @@
 		</right>
 		<right>
 			<name>Delete</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>AccumulationRegister._ДемоОстаткиТоваровВМестахХранения</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -1728,44 +1294,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Constant.ВариантОбновленияКлассификаторов</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Document._ДемоОприходованиеТоваров</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Posting</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>UndoPosting</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>Constant.ИспользоватьВерсионированиеОбъектов</name>
 		<right>
 			<name>Read</name>
@@ -1806,25 +1334,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog._ДемоГруппыДоступаПартнеров</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>InformationRegister.СессииОбменаСообщениямиСистемы</name>
 		<right>
 			<name>Read</name>
@@ -1832,33 +1341,6 @@
 		</right>
 		<right>
 			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Document._ДемоЗаказПокупателя</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Posting</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>UndoPosting</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -1885,17 +1367,6 @@
 		</right>
 		<right>
 			<name>Delete</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.ИспользоватьОплатуСервиса</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -1934,17 +1405,6 @@
 		</right>
 	</object>
 	<object>
-		<name>InformationRegister._ДемоРеестрСкладскихДокументов</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>Constant.УсовершенствоватьПодписиАвтоматически</name>
 		<right>
 			<name>Read</name>
@@ -1956,21 +1416,29 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog._ДемоНоменклатураПрисоединенныеФайлы</name>
+		<name>Configuration.БиблиотекаСтандартныхПодсистем</name>
 		<right>
-			<name>Read</name>
+			<name>MainWindowModeNormal</name>
 			<value>true</value>
 		</right>
 		<right>
-			<name>Insert</name>
+			<name>MainWindowModeWorkplace</name>
 			<value>true</value>
 		</right>
 		<right>
-			<name>Update</name>
+			<name>MainWindowModeEmbeddedWorkplace</name>
 			<value>true</value>
 		</right>
 		<right>
-			<name>Delete</name>
+			<name>MainWindowModeFullscreenWorkplace</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>MainWindowModeKiosk</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>AnalyticsSystemClient</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -2080,50 +1548,9 @@
 		</right>
 	</object>
 	<object>
-		<name>InformationRegister._ДемоЦеныНоменклатуры</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant._ДемоОсновнаяОрганизация</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>SessionParameter.ВидыДоступаСОднойГруппойДляЗначенияДоступа</name>
 		<right>
 			<name>Get</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog._ДемоПартнеры</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -2166,17 +1593,6 @@
 	</object>
 	<object>
 		<name>InformationRegister.ОповещенияПользователейСертификатов</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.УдалитьВерсииКлассификаторовОбластейДанных</name>
 		<right>
 			<name>Read</name>
 			<value>true</value>
@@ -2238,17 +1654,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Constant._ДемоОграничиватьДоступПоПартнерам</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>SessionParameter.СпискиСОграничениемПоПолям</name>
 		<right>
 			<name>Get</name>
@@ -2268,55 +1673,6 @@
 	</object>
 	<object>
 		<name>InformationRegister.КлючиДоступаВнешнихПользователей</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Configuration.БиблиотекаСтандартныхПодсистемДемо</name>
-		<right>
-			<name>MainWindowModeNormal</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>MainWindowModeWorkplace</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>MainWindowModeEmbeddedWorkplace</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>MainWindowModeFullscreenWorkplace</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>MainWindowModeKiosk</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>AnalyticsSystemClient</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister._ДемоГрафикиРаботы</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>AccumulationRegister._ДемоОборотыПоСчетамНаОплату</name>
 		<right>
 			<name>Read</name>
 			<value>true</value>
@@ -2391,82 +1747,9 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog._ДемоКассы</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Document._ДемоНачислениеЗарплаты</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Posting</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>UndoPosting</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>SessionParameter.ВерсияРасширений</name>
 		<right>
 			<name>Get</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Document._ДемоСписаниеБезналичныхДенежныхСредств</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Posting</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>UndoPosting</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -2482,33 +1765,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Document._ДемоПеремещениеТоваров</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Posting</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>UndoPosting</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>SessionParameter.ТаблицыРасширенийСОграничениемДоступа</name>
 		<right>
 			<name>Get</name>
@@ -2517,17 +1773,6 @@
 	</object>
 	<object>
 		<name>Constant.ПараметрыБлокировкиРаботыСВнешнимиРесурсами</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant._ДемоИспользоватьКонтактныеЛицаПартнеров</name>
 		<right>
 			<name>Read</name>
 			<value>true</value>
@@ -2594,17 +1839,6 @@
 		</right>
 	</object>
 	<object>
-		<name>InformationRegister._ДемоРаботникиОрганизаций</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>SessionParameter.СпискиСОграничениемЧерезКлючиДоступаПользователей</name>
 		<right>
 			<name>Get</name>
@@ -2623,29 +1857,7 @@
 		</right>
 	</object>
 	<object>
-		<name>InformationRegister.АвторизацияВСервисе1СФреш</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>Constant.ПараметрыАдресногоКлассификатора</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.ВременныеИдентификаторыЗапросов</name>
 		<right>
 			<name>Read</name>
 			<value>true</value>
@@ -2834,25 +2046,6 @@
 		</right>
 	</object>
 	<object>
-		<name>ExchangePlan._ДемоОбменВРаспределеннойИнформационнойБазе</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>Document.ОтзывСогласияНаОбработкуПерсональныхДанных</name>
 		<right>
 			<name>Read</name>
@@ -2883,17 +2076,6 @@
 		<name>DocumentJournal.Взаимодействия</name>
 		<right>
 			<name>Read</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister._ДемоОтветственныеЛица</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -3048,17 +2230,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Constant.ВариантОбновленияВнешнихКомпонент</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>InformationRegister.ТаблицыГруппДоступа</name>
 		<right>
 			<name>Read</name>
@@ -3120,17 +2291,6 @@
 	</object>
 	<object>
 		<name>InformationRegister.ОбновлениеКлючейДоступаПользователей</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.ПрефиксОбластиДанных</name>
 		<right>
 			<name>Read</name>
 			<value>true</value>
@@ -3278,25 +2438,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog._ДемоПроекты</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>Catalog.ДополнительныеОтчетыИОбработки</name>
 		<right>
 			<name>Read</name>
@@ -3331,17 +2472,6 @@
 		</right>
 		<right>
 			<name>Delete</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.ЧасовойПоясОбластиДанных</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -3394,33 +2524,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Document._ДемоКорректировкаОстатковТоваровВМестахХранения</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Posting</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>UndoPosting</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>InformationRegister.НастройкиПолномочийМЧД</name>
 		<right>
 			<name>Read</name>
@@ -3433,17 +2536,6 @@
 	</object>
 	<object>
 		<name>InformationRegister.ЗначенияГруппДоступа</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister._ДемоЗаведующиеМестамиХранения</name>
 		<right>
 			<name>Read</name>
 			<value>true</value>
@@ -3527,17 +2619,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Constant._ДемоПринятоЗаписей</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>Constant.ИспользоватьЭлектроннуюПочтуВШаблонахСообщений</name>
 		<right>
 			<name>Read</name>
@@ -3567,25 +2648,6 @@
 		</right>
 		<right>
 			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>ChartOfCalculationTypes._ДемоОсновныеНачисления</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -3631,29 +2693,7 @@
 		</right>
 	</object>
 	<object>
-		<name>AccountingRegister._ДемоЖурналПроводокБухгалтерскогоУчета</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>Constant.ОграничиватьДоступНаУровнеЗаписейУниверсально</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>CalculationRegister._ДемоОсновныеНачисления</name>
 		<right>
 			<name>Read</name>
 			<value>true</value>
@@ -3842,25 +2882,6 @@
 		</right>
 	</object>
 	<object>
-		<name>ExchangePlan._ДемоМобильныйКлиент</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>Catalog.ГруппыИсполнителейЗадач</name>
 		<right>
 			<name>Read</name>
@@ -3876,17 +2897,6 @@
 		</right>
 		<right>
 			<name>Delete</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.ФайлКлассификаторов</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -3910,69 +2920,9 @@
 		</right>
 	</object>
 	<object>
-		<name>InformationRegister.УдалитьПараметрыИнтернетПоддержкиПользователей</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant._ДемоИспользоватьНесколькоОрганизаций</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>SessionParameter.ПараметрыСеансаСинхронизацииДанных</name>
 		<right>
 			<name>Get</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>AccountingRegister._ДемоЖурналПроводокБухгалтерскогоУчетаБезКорреспонденции</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Document._ДемоОтпускаСотрудников</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Posting</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>UndoPosting</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -3984,25 +2934,6 @@
 		</right>
 		<right>
 			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog._ДемоБанковскиеСчета</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -4036,17 +2967,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Constant.АдресСервиса1СФреш</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>SessionParameter.ПараметрыОбработчикаОбновления</name>
 		<right>
 			<name>Get</name>
@@ -4065,64 +2985,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog._ДемоСтавкиНДС</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>ChartOfCharacteristicTypes._ДемоВидыСубконто</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>Catalog.СообщениеSMSПрисоединенныеФайлы</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog._ДемоОрганизации</name>
 		<right>
 			<name>Read</name>
 			<value>true</value>
@@ -4170,57 +3033,9 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog._ДемоНоменклатура</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>SessionParameter._ДемоТекущийПроект</name>
-		<right>
-			<name>Get</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>SessionParameter.РазрешенныйНаборГруппДоступа</name>
 		<right>
 			<name>Get</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.КлассификаторФИО</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant._ДемоОсновнойПартнерВЗаявленииНаСертификат</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -4255,83 +3070,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Constant.ФайлВнешнихКомпонент</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Document._ДемоСписаниеТоваров</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Posting</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>UndoPosting</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Document._ДемоРасходныйКассовыйОрдер</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Posting</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>UndoPosting</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>Constant.ИспользоватьНапоминанияПользователя</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.ВерсииКлассификаторовОбластейДанных</name>
 		<right>
 			<name>Read</name>
 			<value>true</value>
@@ -4405,17 +3144,6 @@
 		</right>
 	</object>
 	<object>
-		<name>InformationRegister.КлючиДоступаКРегистру_ДемоОстаткиТоваровВМестахХранения</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>Constant.ИспользоватьСервисПереводаТекста</name>
 		<right>
 			<name>Read</name>
@@ -4423,25 +3151,6 @@
 		</right>
 		<right>
 			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog._ДемоКассыККМ</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -4480,33 +3189,6 @@
 		</right>
 		<right>
 			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Document._ДемоРеализацияТоваров</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Posting</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>UndoPosting</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -4645,25 +3327,6 @@
 		</right>
 		<right>
 			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>ChartOfAccounts._ДемоОсновной</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -4902,25 +3565,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog._ДемоОрганизацииПрисоединенныеФайлы</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>SessionParameter.ТекущийВнешнийПользователь</name>
 		<right>
 			<name>Get</name>
@@ -4935,33 +3579,6 @@
 		</right>
 		<right>
 			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Document._ДемоПоступлениеТоваров</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Posting</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>UndoPosting</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -5033,17 +3650,6 @@
 	</object>
 	<object>
 		<name>InformationRegister.КодировкиФайлов</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.ХранилищеСертификатов</name>
 		<right>
 			<name>Read</name>
 			<value>true</value>
@@ -5142,25 +3748,6 @@
 		</right>
 	</object>
 	<object>
-		<name>ExchangePlan._ДемоАвтономнаяРабота</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>InformationRegister.КонтактыВзаимодействий</name>
 		<right>
 			<name>Read</name>
@@ -5168,25 +3755,6 @@
 		</right>
 		<right>
 			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog._ДемоВидыНоменклатуры</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
 			<value>true</value>
 		</right>
 	</object>
@@ -5273,25 +3841,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog._ДемоКлючиАналитикиНоменклатуры</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>InformationRegister.ПоставляемыеМакетыПечати</name>
 		<right>
 			<name>Read</name>
@@ -5303,37 +3852,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog._ДемоПодразделения</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>Constant.ИзменятьЗаданияЗаднимЧислом</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.УдалитьСводныеПриложенияСостояниеВыгрузки</name>
 		<right>
 			<name>Read</name>
 			<value>true</value>
@@ -5391,17 +3910,6 @@
 		</right>
 	</object>
 	<object>
-		<name>InformationRegister._ДемоНаличиеЗаметокПоПредмету</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
 		<name>InformationRegister.СведенияОПользователях</name>
 		<right>
 			<name>Read</name>
@@ -5427,29 +3935,6 @@
 		<name>SessionParameter.РежимЗагрузкиСообщенияОбменаДаннымиПередЗапуском</name>
 		<right>
 			<name>Get</name>
-			<value>true</value>
-		</right>
-	</object>
-	<object>
-		<name>BusinessProcess._ДемоЗаданиеСРолевойАдресацией</name>
-		<right>
-			<name>Read</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>Start</name>
 			<value>true</value>
 		</right>
 	</object>

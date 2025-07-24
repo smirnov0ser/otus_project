@@ -14,7 +14,6 @@
 			<PrivilegedGetMode>true</PrivilegedGetMode>
 			<Content>
 				<xr:Object>Catalog.СостоянияОригиналовПервичныхДокументов</xr:Object>
-				<xr:Object>DataProcessor._ДемоЖурналУчетаОригиналовПервичныхДокументов</xr:Object>
 				<xr:Object>InformationRegister.СостоянияОригиналовПервичныхДокументов</xr:Object>
 				<xr:Object>Subsystem.СтандартныеПодсистемы.Subsystem.УчетОригиналовПервичныхДокументов</xr:Object>
 				<xr:Object>CommonCommand.ЖурналУчетаОригиналовПервичныхДокументов</xr:Object>

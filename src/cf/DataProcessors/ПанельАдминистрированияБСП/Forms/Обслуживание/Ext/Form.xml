@@ -552,10 +552,6 @@
 													<v8:content>Иконка облачный архив работает</v8:content>
 												</v8:item>
 											</Title>
-											<Picture>
-												<xr:Ref>CommonPicture.ИнтернетПоддержкаПользователейВыполнено</xr:Ref>
-												<xr:LoadTransparent>false</xr:LoadTransparent>
-											</Picture>
 											<FileDragMode>AsFile</FileDragMode>
 											<ContextMenu name="ИконкаОблачныйАрхивРаботаетКонтекстноеМеню" id="2286"/>
 											<ExtendedTooltip name="ИконкаОблачныйАрхивРаботаетРасширеннаяПодсказка" id="2287"/>

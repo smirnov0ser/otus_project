@@ -12,9 +12,7 @@
 			<Comment/>
 			<Location>Constant.НеИспользоватьРазделениеПоОбластямДанных</Location>
 			<PrivilegedGetMode>true</PrivilegedGetMode>
-			<Content>
-				<xr:Object>Subsystem._ДемоСинхронизацияДанных</xr:Object>
-			</Content>
+			<Content/>
 		</Properties>
 	</FunctionalOption>
 </MetaDataObject>

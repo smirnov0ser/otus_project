@@ -523,32 +523,6 @@
 				</Button>
 			</ChildItems>
 		</UsualGroup>
-		<UsualGroup name="_ДемоГруппаДругиеНастройкиСинхронизацииДанных" id="2007">
-			<Title>
-				<v8:item>
-					<v8:lang>ru</v8:lang>
-					<v8:content>Демо группа другие настройки синхронизации данных</v8:content>
-				</v8:item>
-			</Title>
-			<Group>Vertical</Group>
-			<Behavior>Usual</Behavior>
-			<Representation>NormalSeparation</Representation>
-			<ShowTitle>false</ShowTitle>
-			<ExtendedTooltip name="_ДемоГруппаДругиеНастройкиСинхронизацииДанныхРасширеннаяПодсказка" id="2038"/>
-			<ChildItems>
-				<Button name="_ДемоДругиеНастройкиСинхронизацииДанных" id="2006">
-					<Type>Hyperlink</Type>
-					<CommandName>DataProcessor._ДемоПанельАдминистрирования.Command.ДругиеНастройкиСинхронизацииДанных</CommandName>
-					<Title>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Демо: Другие настройки...</v8:content>
-						</v8:item>
-					</Title>
-					<ExtendedTooltip name="_ДемоДругиеНастройкиСинхронизацииДанныхРасширеннаяПодсказка" id="2039"/>
-				</Button>
-			</ChildItems>
-		</UsualGroup>
 	</ChildItems>
 	<Attributes>
 		<Attribute name="НаборКонстант" id="1">

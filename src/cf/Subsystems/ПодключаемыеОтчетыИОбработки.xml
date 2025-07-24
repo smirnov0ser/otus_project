@@ -15,13 +15,7 @@
 			<UseOneCommand>false</UseOneCommand>
 			<Explanation/>
 			<Picture/>
-			<Content>
-				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor._ДемоПечатьКарточкиОрганизации</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">Report._ДемоФайлы</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor._ДемоОтправкаПриглашенияДляАнкетирования</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">Report._ДемоОборотноСальдоваяВедомость</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor._ДемоПечатьДоговораКуплиПродажи</xr:Item>
-			</Content>
+			<Content/>
 		</Properties>
 		<ChildObjects/>
 	</Subsystem>

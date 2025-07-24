@@ -4,218 +4,6 @@
 	<setForAttributesByDefault>true</setForAttributesByDefault>
 	<independentRightsOfChildObjects>false</independentRightsOfChildObjects>
 	<object>
-		<name>Subsystem.АдминистрированиеСервиса.Subsystem.ПоставляемыеДанные</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.ЛогироватьЗапускиЗаданийОчереди</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document._ДемоСчетНаОплатуПокупателю</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.МаксимальнаяДлительностьВыполненияИсполняющегоФоновогоЗадания</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.АдресСервисаНовостей</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>DataProcessor.ПроверкаБСППередСборкой</name>
-		<right>
-			<name>Use</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.УстанавливатьПриоритетОбработкиДанныхВУказанномИнтервалеВремени</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.ДоступныеЛицензии</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>TotalsControl</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Catalog.ЭлектронноеПисьмоВходящееПрисоединенныеФайлы</name>
 		<right>
 			<name>InteractiveDelete</name>
@@ -269,104 +57,6 @@
 		</right>
 	</object>
 	<object>
-		<name>InformationRegister.ПоставляемыеДанныеТребующиеОбработки</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>TotalsControl</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.НачалоИнтервалаВремениПриоритетаОбработкиДанных</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Catalog.ШаблоныАнкет</name>
 		<right>
 			<name>InteractiveDelete</name>
@@ -386,76 +76,6 @@
 		</right>
 		<right>
 			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.ИспользуетсяМиграцияПриложений</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.ИспользоватьЭлектроннуюПодписьВМоделиСервиса</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -499,71 +119,6 @@
 		</right>
 		<right>
 			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.ИспользоватьИнтеграциюССистемойВзаимодействия</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.КопироватьОбластиДанныхИзЭталонной</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document._ДемоПоручениеЭкспедитору</name>
-		<right>
-			<name>InteractiveDelete</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -646,97 +201,6 @@
 		</right>
 		<right>
 			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog.Удалить_ДемоОбщиеСведения</name>
-		<right>
-			<name>Insert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveInsert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarked</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -877,89 +341,6 @@
 		</right>
 		<right>
 			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>ExchangePlan.ОбменСообщениями</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveInsert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarked</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InputByString</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
 			<value>false</value>
 		</right>
 		<right>
@@ -1457,29 +838,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog._ДемоКонтактныеЛицаПартнеров</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Catalog.ВнешниеКомпоненты</name>
 		<right>
 			<name>InteractiveDelete</name>
@@ -1510,29 +868,6 @@
 		</right>
 		<right>
 			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog.СообщенияОбластейДанных</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -1603,131 +938,6 @@
 		</right>
 	</object>
 	<object>
-		<name>DataProcessor.ОбновлениеВерсииИБ.Command.ВерсииПодсистемИнформационнойБазы</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.ПодпискиПолучателей</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>TotalsControl</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.ИнцидентыОткрытые</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>TotalsControl</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Catalog.ШаблоныСообщенийПрисоединенныеФайлы</name>
 		<right>
 			<name>InteractiveDelete</name>
@@ -1770,57 +980,6 @@
 		</right>
 		<right>
 			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.ФайлыВременногоХранилища</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>TotalsControl</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -1910,13 +1069,6 @@
 		</right>
 		<right>
 			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>CommonCommand.НастройкаОбменаСообщениями</name>
-		<right>
-			<name>View</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -2023,33 +1175,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Constant.АдресПрограммногоИнтерфейсаСлужбыПоддержки</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>InformationRegister.УровниСокращенийАдресныхСведений</name>
 		<right>
 			<name>Update</name>
@@ -2112,53 +1237,6 @@
 		</right>
 		<right>
 			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.ИспользоватьДифференциальноеРезервноеКопирование</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
 			<value>false</value>
 		</right>
 		<right>
@@ -2354,86 +1432,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog._ДемоСчетНаОплатуПокупателюПрисоединенныеФайлы</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog._ДемоКонтрагенты</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog._ДемоПроектыПрисоединенныеФайлы</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Report.ЗависимостиПодсистем</name>
-		<right>
-			<name>Use</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Constant.НастройкиРегистрацииСобытийДоступаКДанным</name>
 		<right>
 			<name>Update</name>
@@ -2477,13 +1475,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Document._ДемоСчетФактураПолученный</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Constant.ИспользоватьСинхронизациюДанныхВМоделиСервиса</name>
 		<right>
 			<name>Update</name>
@@ -2507,21 +1498,6 @@
 		</right>
 		<right>
 			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.РейтингАктивностиОбластейДанных</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>TotalsControl</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -2581,213 +1557,6 @@
 		</right>
 		<right>
 			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.ЗапущенныеОбработчикиОчередиЗаданий</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>TotalsControl</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog.ОбработчикиОчередиЗаданий</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveInsert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarked</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InputByString</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>DataProcessor.ПереносВариантовОтчетов</name>
-		<right>
-			<name>Use</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog._ДемоФизическиеЛица</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.РежимИспользованияИнформационнойБазы</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -2895,40 +1664,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog._ДемоГруппыДоступаНоменклатуры</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.СообщениеБлокировкиПриОбновленииКонфигурации</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Constant.АккредитованныеУдостоверяющиеЦентры</name>
 		<right>
 			<name>Update</name>
@@ -2998,29 +1733,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog._ДемоМестаХранения</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Catalog.ВариантыОтветовАнкет</name>
 		<right>
 			<name>InteractiveDelete</name>
@@ -3044,105 +1756,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ОбщиеДанныеИнформационногоЦентра</name>
-		<right>
-			<name>Insert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveInsert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarked</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InputByString</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Catalog.Заметки</name>
 		<right>
 			<name>InteractiveDelete</name>
@@ -3162,49 +1775,6 @@
 		</right>
 		<right>
 			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.ВнутреннийАдресМенеджераСервиса</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -3252,36 +1822,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Subsystem.ТехнологияСервиса.Subsystem.АвтоматизацияПроцессов</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog._ДемоДоговорыКонтрагентов</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Task.ЗадачаИсполнителя</name>
 		<right>
 			<name>InteractiveDelete</name>
@@ -3308,105 +1848,6 @@
 		</right>
 		<right>
 			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog.ИнформационныеСсылкиДляФорм</name>
-		<right>
-			<name>Insert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveInsert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarked</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InputByString</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -3441,70 +1882,9 @@
 		</right>
 	</object>
 	<object>
-		<name>Constant.КлючОбластиДанных</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>DataProcessor.ВыгрузкаЗагрузкаДанныхXML.Command.ВыгрузкаИЗагрузкаДанных</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>ExchangePlan.ОбновлениеИнформационнойБазы</name>
 		<right>
 			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.ДатаПоследнегоСтартаКлиентскогоСеанса</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -3600,101 +1980,9 @@
 		</right>
 	</object>
 	<object>
-		<name>DataProcessor.ПереносВариантовОтчетов.Command.ПереносВариантовОтчетов</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>DataProcessor.НастройкиЦентраМониторинга.Command.ПроблемыПроизводительности</name>
 		<right>
 			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.КэшДанныхКлассификаторов</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>TotalsControl</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.ПрефиксСервисаДляНовостей</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog._ДемоХарактеристики</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -3725,49 +2013,6 @@
 		</right>
 		<right>
 			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.КаталогОбменаФайламиВМоделиСервиса</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -4037,72 +2282,6 @@
 		</right>
 	</object>
 	<object>
-		<name>InformationRegister.НастройкиТранспортаОбменаСообщениями</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>TotalsControl</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>CommonForm.ВходВОбластьДанных</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>InformationRegister.ДанныеПроизводственногоКалендаря</name>
 		<right>
 			<name>Update</name>
@@ -4150,13 +2329,6 @@
 		</right>
 		<right>
 			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document._ДемоОприходованиеТоваров</name>
-		<right>
-			<name>InteractiveDelete</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -4254,36 +2426,6 @@
 		</right>
 		<right>
 			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog._ДемоГруппыДоступаПартнеров</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document._ДемоЗаказПокупателя</name>
-		<right>
-			<name>InteractiveDelete</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -4499,139 +2641,9 @@
 		</right>
 	</object>
 	<object>
-		<name>Constant.ЗагружатьИУстанавливатьИсправленияАвтоматически</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Document.ЗапланированноеВзаимодействие</name>
 		<right>
 			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog.ШаблоныЗаданийОчереди</name>
-		<right>
-			<name>Insert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveInsert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarked</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -4679,25 +2691,65 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog._ДемоНоменклатураПрисоединенныеФайлы</name>
+		<name>Configuration.БиблиотекаСтандартныхПодсистем</name>
 		<right>
-			<name>InteractiveDelete</name>
+			<name>Administration</name>
 			<value>false</value>
 		</right>
 		<right>
-			<name>InteractiveDeletePredefinedData</name>
+			<name>UpdateDataBaseConfiguration</name>
 			<value>false</value>
 		</right>
 		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
+			<name>ThickClient</name>
 			<value>false</value>
 		</right>
 		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
+			<name>ExternalConnection</name>
 			<value>false</value>
 		</right>
 		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
+			<name>Automation</name>
+			<value>false</value>
+		</right>
+		<right>
+			<name>TechnicalSpecialistMode</name>
+			<value>false</value>
+		</right>
+		<right>
+			<name>MainWindowModeNormal</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>MainWindowModeWorkplace</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>MainWindowModeEmbeddedWorkplace</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>MainWindowModeFullscreenWorkplace</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>MainWindowModeKiosk</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>AnalyticsSystemClient</name>
+			<value>true</value>
+		</right>
+		<right>
+			<name>ConfigurationExtensionsAdministration</name>
+			<value>false</value>
+		</right>
+		<right>
+			<name>InteractiveOpenExtDataProcessors</name>
+			<value>false</value>
+		</right>
+		<right>
+			<name>InteractiveOpenExtReports</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -4748,112 +2800,6 @@
 		</right>
 		<right>
 			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog.ПоставщикиУслугСервиса</name>
-		<right>
-			<name>Insert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveInsert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarked</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InputByString</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>DataProcessor.ПроверкаБСППередСборкой.Command.ПроверкаБСППередСборкой</name>
-		<right>
-			<name>View</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -4931,33 +2877,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Constant.ПоддержкаРезервногоКопирования</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Constant.ОсновнойЯзык</name>
 		<right>
 			<name>Update</name>
@@ -4965,124 +2884,6 @@
 		</right>
 		<right>
 			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.НастройкиОтправителя</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>TotalsControl</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.ОграничениеСкоростиОтсылкиИнцидентов</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>TotalsControl</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
 			<value>false</value>
 		</right>
 		<right>
@@ -5181,29 +2982,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog._ДемоПартнеры</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Catalog.ПользовательскиеНастройкиОтчетов</name>
 		<right>
 			<name>InteractiveDelete</name>
@@ -5297,142 +3075,6 @@
 		</right>
 		<right>
 			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.КэшДанныхВнешнихКомпонент</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>TotalsControl</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.АдресСервисаЦентраИдей</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.ОбластиДанных</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>TotalsControl</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant._ДемоИмяКонфигурацииВОбменеСБиблиотекойСтандартныхПодсистем</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
 			<value>false</value>
 		</right>
 		<right>
@@ -5549,122 +3191,9 @@
 		</right>
 	</object>
 	<object>
-		<name>Configuration.БиблиотекаСтандартныхПодсистемДемо</name>
-		<right>
-			<name>Administration</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataBaseConfiguration</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ThickClient</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ExternalConnection</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Automation</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>TechnicalSpecialistMode</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>MainWindowModeNormal</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>MainWindowModeWorkplace</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>MainWindowModeEmbeddedWorkplace</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>MainWindowModeFullscreenWorkplace</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>MainWindowModeKiosk</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>AnalyticsSystemClient</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>ConfigurationExtensionsAdministration</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveOpenExtDataProcessors</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveOpenExtReports</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Document.СообщениеSMS</name>
 		<right>
 			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.КаталогОбменаФайламиВМоделиСервисаLinux</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Subsystem.АдминистрированиеСервиса.Subsystem.Тарификация</name>
-		<right>
-			<name>View</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -5778,54 +3307,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Constant.ИспользованиеКаталогаРасширенийВМоделиСервиса</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>DataProcessor.УправлениеДоступом.Command.ИнструментыРазработчика</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog._ДемоКассы</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document._ДемоНачислениеЗарплаты</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>InformationRegister.ЗапросыРазрешенийНаИспользованиеВнешнихРесурсов</name>
 		<right>
 			<name>Read</name>
@@ -5885,13 +3366,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Document._ДемоСписаниеБезналичныхДенежныхСредств</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>CommonAttribute.ОбластьДанныхОсновныеДанные</name>
 		<right>
 			<name>View</name>
@@ -5925,127 +3399,6 @@
 		</right>
 		<right>
 			<name>TotalsControl</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document._ДемоПеремещениеТоваров</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>DataProcessor.УправлениеИтогамиИАгрегатамиИнструментРазработчика</name>
-		<right>
-			<name>Use</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog.УдалитьОчередьЗаданий</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveInsert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarked</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InputByString</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
 			<value>false</value>
 		</right>
 		<right>
@@ -6141,17 +3494,6 @@
 		</right>
 		<right>
 			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.КонечнаяТочкаМенеджераСервиса</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -6521,27 +3863,9 @@
 		</right>
 	</object>
 	<object>
-		<name>DataProcessor.СбросНастроекРезервногоКопирования</name>
-		<right>
-			<name>Use</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>DataProcessor.ОценкаПроизводительности.Command.ЭкспортЗамеровПроизводительности</name>
 		<right>
 			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>ExchangePlan._ДемоОбменВРаспределеннойИнформационнойБазе</name>
-		<right>
-			<name>InteractiveDelete</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -6553,75 +3877,9 @@
 		</right>
 	</object>
 	<object>
-		<name>Subsystem.ТехнологияСервиса.Subsystem.АвтоматизацияПроцессов.Subsystem.РаспределенноеВыполнениеКоманд</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>InformationRegister.КлассификаторыМЧД</name>
 		<right>
 			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>TotalsControl</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.РежимыПодключенияВнешнихМодулейВМоделиСервиса</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
 			<value>false</value>
 		</right>
 		<right>
@@ -6744,17 +4002,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Constant.МаксимальноеКоличествоИсполняющихФоновыхЗаданий</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Constant.КоличествоПотоковОбновленияДоступа</name>
 		<right>
 			<name>Read</name>
@@ -6794,13 +4041,6 @@
 		</right>
 		<right>
 			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>DataProcessor.ЗамерСкоростиОткрытияФорм.Command.ЗамерСкоростиОткрытияФорм</name>
-		<right>
-			<name>View</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -6984,17 +4224,6 @@
 		</right>
 		<right>
 			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.ПрефиксОбластиДанных</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -7231,29 +4460,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog._ДемоПроекты</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Catalog.ДополнительныеОтчетыИОбработки</name>
 		<right>
 			<name>InteractiveDelete</name>
@@ -7311,17 +4517,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Constant.ЧасовойПоясОбластиДанных</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Catalog.ПапкиФайлов</name>
 		<right>
 			<name>InteractiveDelete</name>
@@ -7341,13 +4536,6 @@
 		</right>
 		<right>
 			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document._ДемоКорректировкаОстатковТоваровВМестахХранения</name>
-		<right>
-			<name>InteractiveDelete</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -7640,116 +4828,6 @@
 		</right>
 	</object>
 	<object>
-		<name>DataProcessor.КонсольЗапросов</name>
-		<right>
-			<name>Use</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog.ПоставляемыеРасширения</name>
-		<right>
-			<name>Insert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveInsert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarked</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InputByString</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Constant.НеИспользоватьРазделениеПоОбластямДанных</name>
 		<right>
 			<name>Update</name>
@@ -7971,40 +5049,6 @@
 		</right>
 	</object>
 	<object>
-		<name>DataProcessor.УправлениеДоступом</name>
-		<right>
-			<name>Use</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>ChartOfCalculationTypes._ДемоОсновныеНачисления</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Catalog.ГруппыПользователей</name>
 		<right>
 			<name>InteractiveDelete</name>
@@ -8024,17 +5068,6 @@
 		</right>
 		<right>
 			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>DataProcessor.ЗамерСкоростиОткрытияФорм</name>
-		<right>
-			<name>Use</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -8061,49 +5094,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Constant.БлокировкаОтправкиБыстрыхСообщений</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Catalog.ЗначенияСвойствОбъектовИерархия</name>
 		<right>
 			<name>InteractiveDelete</name>
@@ -8123,17 +5113,6 @@
 		</right>
 		<right>
 			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>DataProcessor.ВыгрузкаЗагрузкаДанныхXML</name>
-		<right>
-			<name>Use</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -8258,45 +5237,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Constant.НастройкиРасчетаРазмераПриложений</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>InformationRegister.АдминистративнаяИерархия</name>
 		<right>
 			<name>Update</name>
@@ -8344,17 +5284,6 @@
 		</right>
 		<right>
 			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.ЗавершатьСеансыБезПредупрежденияПоУмолчаниюВМоделиСервиса</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -8410,29 +5339,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ИсторияПроверкиИКорректировкиДанныхПрисоединенныеФайлы</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>ChartOfCharacteristicTypes.ОбъектыАдресацииЗадач</name>
 		<right>
 			<name>InteractiveDelete</name>
@@ -8452,13 +5358,6 @@
 		</right>
 		<right>
 			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Subsystem.АдминистрированиеСервиса</name>
-		<right>
-			<name>View</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -8549,13 +5448,6 @@
 		</right>
 	</object>
 	<object>
-		<name>ExchangePlan._ДемоМобильныйКлиент</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Constant.ИспользоватьНесколькоПроизводственныхКалендарей</name>
 		<right>
 			<name>Update</name>
@@ -8563,105 +5455,6 @@
 		</right>
 		<right>
 			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog.УслугиСервиса</name>
-		<right>
-			<name>Insert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveInsert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarked</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InputByString</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -8845,149 +5638,7 @@
 		</right>
 	</object>
 	<object>
-		<name>Subsystem.АдминистрированиеСервиса.Subsystem.Сообщения</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Catalog.ЗначенияСвойствОбъектов</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.ИнцидентыОтложенныеПроверки</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>TotalsControl</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>CommonCommand.ОбменСообщениями</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document._ДемоОтпускаСотрудников</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.ИспользоватьОбщиеНастройкиВходаПользователейСервиса</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog._ДемоБанковскиеСчета</name>
 		<right>
 			<name>InteractiveDelete</name>
 			<value>false</value>
@@ -9203,40 +5854,6 @@
 		</right>
 	</object>
 	<object>
-		<name>ExchangePlan.МиграцияПриложений</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.ВнешнийАдресУправляющегоПриложения</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Constant.СписокЗапрещенныхРасширений</name>
 		<right>
 			<name>Read</name>
@@ -9280,52 +5897,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog._ДемоСтавкиНДС</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>ChartOfCharacteristicTypes._ДемоВидыСубконто</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Catalog.СообщениеSMSПрисоединенныеФайлы</name>
 		<right>
 			<name>InteractiveDelete</name>
@@ -9349,175 +5920,9 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog._ДемоОрганизации</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.УстановленаМонопольнаяБлокировка</name>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Subsystem.АдминистрированиеСервиса.Subsystem.ОчередьЗаданий</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog._ДемоНоменклатура</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.АдресУправленияКонференцией</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>DataProcessor.НастройкиЦентраМониторинга.Command.НастройкаОтправкиОтчетовОбОшибках</name>
 		<right>
 			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.ВерсииКлассификаторов</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>TotalsControl</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -9552,285 +5957,6 @@
 		</right>
 		<right>
 			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.ЗанятыеЛицензии</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>TotalsControl</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.АдресЦКК</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document._ДемоСписаниеТоваров</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document._ДемоРасходныйКассовыйОрдер</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.РазмерБлокаПередачиФайла</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.АдресКриптосервиса</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.ЗапросыРазрешенийНаИспользованиеВнешнихРесурсовВМоделиСервиса</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>TotalsControl</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>DataProcessor.УправлениеИтогамиИАгрегатамиИнструментРазработчика.Command.ИнструментыРазработчика</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>CommonCommand._ДемоПанельОтчетовИнструментыРазработчика</name>
-		<right>
-			<name>View</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -9912,131 +6038,9 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog._ДемоКассыККМ</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Document.СогласиеНаОбработкуПерсональныхДанных</name>
 		<right>
 			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog.ВерсииПоставляемыхРасширений</name>
-		<right>
-			<name>Insert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveInsert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarked</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InputByString</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -10096,13 +6100,6 @@
 		</right>
 		<right>
 			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document._ДемоРеализацияТоваров</name>
-		<right>
-			<name>InteractiveDelete</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -10330,17 +6327,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Constant.ИспользоватьПрофилиБезопасностиДляРасширений</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Catalog.ГруппыДоступа</name>
 		<right>
 			<name>InteractiveDelete</name>
@@ -10360,17 +6346,6 @@
 		</right>
 		<right>
 			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.НезависимоеИспользованиеРасширенийВМоделиСервиса</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -10402,17 +6377,6 @@
 		</right>
 		<right>
 			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>DataProcessor.ОбновлениеВерсииИБ</name>
-		<right>
-			<name>Use</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -10538,29 +6502,6 @@
 		</right>
 	</object>
 	<object>
-		<name>ChartOfAccounts._ДемоОсновной</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Catalog.ВстречаПрисоединенныеФайлы</name>
 		<right>
 			<name>InteractiveDelete</name>
@@ -10584,24 +6525,6 @@
 		</right>
 	</object>
 	<object>
-		<name>DataProcessor.СбросНастроекРезервногоКопирования.Command.СбросНастроек</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Report.СтатистикаВыполненияОбработчиковОбновления</name>
-		<right>
-			<name>Use</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Constant.ЭтоАвтономноеРабочееМесто</name>
 		<right>
 			<name>Update</name>
@@ -10609,207 +6532,6 @@
 		</right>
 		<right>
 			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.ПрименениеРазрешенийНаИспользованиеВнешнихРесурсовВМоделиСервиса</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>TotalsControl</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.КаталогРасширенийКоличествоЭлементовВВыборке</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog.ОповещенияПользователей</name>
-		<right>
-			<name>Insert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveInsert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarked</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InputByString</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -11030,72 +6752,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ИсторияПроверкиИКорректировкиДанных</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.АдресСервисаПодключенияЭлектроннойПодписиВМоделиСервиса</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Constant.СинхронизироватьДанныеСПриложениемВИнтернетеПриЗавершенииРаботыПрограммы</name>
 		<right>
 			<name>Read</name>
@@ -11200,110 +6856,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog._ДемоОрганизацииПрисоединенныеФайлы</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.МаксимальныйРазмерПриложенияДляВыгрузкиБезРасширенияРаботыСФайлами</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.ПериодХраненияИсторииЗапусковЗаданийОчереди</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Document._ДемоПоступлениеТоваров</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>CommonForm.МониторСинхронизацииДанныхВМоделиСервиса</name>
 		<right>
 			<name>View</name>
@@ -11334,13 +6886,6 @@
 		</right>
 		<right>
 			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Subsystem.АдминистрированиеСервиса.Subsystem.ОбластиДанных</name>
-		<right>
-			<name>View</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -11426,216 +6971,7 @@
 		</right>
 	</object>
 	<object>
-		<name>InformationRegister._ДемоОбщиеСведения</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>TotalsControl</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>InformationRegister.ДампыПлатформы</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>TotalsControl</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog.ТипыИнформацииИнформационногоЦентра</name>
-		<right>
-			<name>Insert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveInsert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarked</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InputByString</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.ДанныеОчищаемойОбласти</name>
 		<right>
 			<name>Read</name>
 			<value>false</value>
@@ -11819,17 +7155,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Constant.ПредставлениеОбластиДанных</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>InformationRegister.ЗамерыСтатистики</name>
 		<right>
 			<name>Read</name>
@@ -11948,49 +7273,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Constant.ОкончаниеИнтервалаВремениПриоритетаОбработкиДанных</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Constant.ПараметрыХраненияФайловВИБ</name>
 		<right>
 			<name>Read</name>
@@ -12030,143 +7312,6 @@
 		</right>
 		<right>
 			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.ИспользоватьКонтрольТарификации</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog.ПолныеПутиКФормам</name>
-		<right>
-			<name>Insert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveInsert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarked</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InputByString</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Constant.ВыполнитьРезервноеКопированиеОбластиДанных</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -12312,97 +7457,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Catalog.ОчередьЗаданий</name>
-		<right>
-			<name>Delete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveInsert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarked</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InputByString</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Constant.ПовторитьЗагрузкуСообщенияОбменаДаннымиПередЗапуском</name>
 		<right>
 			<name>Read</name>
@@ -12442,72 +7496,6 @@
 		</right>
 		<right>
 			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>InformationRegister.РазрешенияНаИспользованиеВнешнихРесурсовВМоделиСервиса</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>TotalsControl</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>ExchangePlan._ДемоАвтономнаяРабота</name>
-		<right>
-			<name>InteractiveDelete</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -12567,36 +7555,6 @@
 		</right>
 		<right>
 			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>DataProcessor.КонсольЗапросов.Command.КонсольЗапросов</name>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog._ДемоВидыНоменклатуры</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -12721,49 +7679,6 @@
 		</right>
 	</object>
 	<object>
-		<name>InformationRegister.СведенияОПользователяхСервиса</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>TotalsControl</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>Document.ЭлектронноеПисьмоВходящее</name>
 		<right>
 			<name>InteractiveDelete</name>
@@ -12778,52 +7693,6 @@
 		</right>
 		<right>
 			<name>Edit</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog._ДемоКлючиАналитикиНоменклатуры</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog._ДемоПодразделения</name>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -12887,238 +7756,9 @@
 		</right>
 	</object>
 	<object>
-		<name>Constant.ТипыИнцидентовЦККАктуальны</name>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog.СообщенияСистемы</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Insert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveInsert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarked</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InputByString</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>CommonCommand.ЗагрузитьКурсыВалют</name>
 		<right>
 			<name>View</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>Catalog.ПоставляемыеДанные</name>
-		<right>
-			<name>Insert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Delete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveInsert</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDelete</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMark</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarked</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InputByString</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeletePredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveSetDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveClearDeletionMarkPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>InteractiveDeleteMarkedPredefinedData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryOfMissingData</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistorySettings</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
 			<value>false</value>
 		</right>
 	</object>
@@ -13182,49 +7822,6 @@
 		</right>
 	</object>
 	<object>
-		<name>Constant.КаталогРасширенийОтправлятьПревьюПриЗапросеСписка</name>
-		<right>
-			<name>Read</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Update</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>View</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>Edit</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ReadDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>UpdateDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>ViewDataHistory</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>EditDataHistoryVersionComment</name>
-			<value>false</value>
-		</right>
-		<right>
-			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
 		<name>SessionParameter.ОбластьДанныхЗначение</name>
 		<right>
 			<name>Set</name>
@@ -13262,13 +7859,6 @@
 		</right>
 		<right>
 			<name>SwitchToDataHistoryVersion</name>
-			<value>false</value>
-		</right>
-	</object>
-	<object>
-		<name>BusinessProcess._ДемоЗаданиеСРолевойАдресацией</name>
-		<right>
-			<name>InteractiveDelete</name>
 			<value>false</value>
 		</right>
 	</object>

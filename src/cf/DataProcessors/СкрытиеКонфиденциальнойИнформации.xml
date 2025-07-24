@@ -500,7 +500,6 @@
 			<Form>Форма</Form>
 			<Form>ВыборПравилОбработки</Form>
 			<Template>НастройкиБСП</Template>
-			<Template>_ДемоНастройкиБСП</Template>
 		</ChildObjects>
 	</DataProcessor>
 </MetaDataObject>

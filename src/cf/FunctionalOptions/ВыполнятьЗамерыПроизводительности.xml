@@ -19,7 +19,6 @@
 				<xr:Object>Report.ОценкаПроизводительности</xr:Object>
 				<xr:Object>DataProcessor.ОценкаПроизводительности</xr:Object>
 				<xr:Object>Enum.УровниПроизводительности</xr:Object>
-				<xr:Object>DataProcessor.ПереносЗамеровВремени</xr:Object>
 				<xr:Object>InformationRegister.ЗамерыВремениТехнологические</xr:Object>
 				<xr:Object>InformationRegister.УдалитьЗамерыВремени3</xr:Object>
 				<xr:Object>InformationRegister.ЗамерыВремени</xr:Object>

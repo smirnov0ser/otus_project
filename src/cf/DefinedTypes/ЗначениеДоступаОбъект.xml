@@ -17,19 +17,10 @@
 			</Synonym>
 			<Comment/>
 			<Type>
-				<v8:Type>cfg:CatalogObject._ДемоНоменклатура</v8:Type>
 				<v8:Type>cfg:CatalogObject.УчетныеЗаписиЭлектроннойПочты</v8:Type>
-				<v8:Type>cfg:CatalogObject._ДемоФизическиеЛица</v8:Type>
-				<v8:Type>cfg:CatalogObject._ДемоОрганизации</v8:Type>
-				<v8:Type>cfg:CatalogObject._ДемоПартнеры</v8:Type>
-				<v8:Type>cfg:CatalogObject._ДемоПодразделения</v8:Type>
 				<v8:Type>cfg:ChartOfCharacteristicTypesObject.ДополнительныеРеквизитыИСведения</v8:Type>
 				<v8:Type>cfg:CatalogObject.ДополнительныеОтчетыИОбработки</v8:Type>
-				<v8:Type>cfg:CatalogObject._ДемоКассыККМ</v8:Type>
-				<v8:Type>cfg:CatalogObject._ДемоКассы</v8:Type>
-				<v8:Type>cfg:CatalogObject._ДемоМестаХранения</v8:Type>
 				<v8:Type>cfg:CatalogObject.ИдентификаторыОбъектовМетаданных</v8:Type>
-				<v8:Type>cfg:CatalogObject._ДемоВидыНоменклатуры</v8:Type>
 			</Type>
 		</Properties>
 	</DefinedType>
