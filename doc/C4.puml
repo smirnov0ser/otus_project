@@ -1,0 +1,55 @@
+@startuml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4.puml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Container.puml
+!include https://raw.githubusercontent.com/plantuml-stdlib/C4-PlantUML/master/C4_Component.puml
+
+title Архитектура обработки заказов
+
+' Участники процесса
+Person(Клиент, "Клиент", "Создает и оплачивает заказы")
+Person(Кладовщик, "Кладовщик", "Комплектует заказы")
+
+' Системы
+System_Boundary(CRM, "CRM система") {
+    Container(ЛичныйКабинет, "Личный кабинет", "Web приложение")
+    Component(ТоварыОстатки, "Товары и остатки", "")
+    Component(Заказы, "Заказы", "")
+}
+
+System_Boundary(RabbitMQ, "RabbitMQ") {
+    Component(RabbitMQЗаказы, "Очередь новых заказов для 1С")
+    Component(RabbitMQОстатки, "Очередь остатков")  
+    Component(RabbitMQЗаказыСтатусы, "Очередь статусов заказов для CRM") 
+}
+
+System_Boundary(ERP, "1С") {
+    Container(Заказы1С, "Управление заказами", "")
+    Component(Склад1С, "Складской учет", "")
+}
+
+System_Ext(ПлатежнаяСистема, "Платежный шлюз")
+
+' Связи
+'Клиент
+Rel(Клиент, ЛичныйКабинет, "Создание заказа", "HTTPS")
+'CRM
+Rel(ЛичныйКабинет, ТоварыОстатки, "Проверка заказа")
+Rel(ЛичныйКабинет, Заказы, "Создание заказа")
+Rel(ЛичныйКабинет, ПлатежнаяСистема, "Оплата заказа", "API")
+'RMQ
+Rel(ТоварыОстатки, RabbitMQОстатки, "Получение остатков", "AMQP")
+Rel(Склад1С, RabbitMQОстатки, "Передача остатков", "AMQP")
+Rel(Заказы1С, RabbitMQЗаказы, "Получение нового заказа", "AMQP")
+Rel(Заказы, RabbitMQЗаказы, "Передача нового заказа", "AMQP")
+Rel(Заказы1С, RabbitMQЗаказыСтатусы, "Передача статуса заказа", "AMQP")
+Rel(Заказы, RabbitMQЗаказыСтатусы, "Получение статуса заказа", "AMQP")
+'1С
+Rel(Заказы1С, Склад1С, "Резервирование товаров")
+'Кладовщик
+Rel(Кладовщик, Заказы1С, "Сборка заказа", "Клиент 1С")
+
+' Расположение элементов
+Lay_U(RabbitMQОстатки, RabbitMQЗаказы)
+Lay_U(RabbitMQЗаказы, RabbitMQЗаказыСтатусы)
+
+@enduml
