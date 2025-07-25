@@ -1,0 +1,126 @@
+@startuml
+' Основные настройки
+skinparam groupInheritance 2
+skinparam linetype ortho
+hide circle
+
+' Группа Склад
+package "Склад" {
+    entity "Номенклатура" as nomenclature {
+        + КодCRM
+    }
+    
+    entity "Контрагенты" as contractors {
+        + КодCRM
+    }
+    
+    entity "Приход" as income {
+        + Контрагент
+        --
+        + Товары.Номенклатура
+    }
+    
+    entity "Заказ" as order {
+        + Статус
+        + НомерCRM
+        + Контрагент
+        --
+        + Товары.Номенклатура
+    }
+    
+    entity "ОчередьRMQ" as queue_rmq {
+        + ID
+        + Сообщение
+        + Маршрутизация
+    }
+    
+    entity "ПараметрыПодключенияRMQ" as rmq_params {
+        + ИмяОбмена
+        + Адрес
+        + Порт
+        + Логин
+        + Пароль
+        + ВиртуальныйХост
+        + ИмяОчереди
+        + ТочкаОбмена
+    }
+}
+
+' Группа CRM
+package "CRM" {
+    entity "CRM_Номенклатура" as crm_nomenclature {
+        + Код
+        + СвободныйОстаток
+    }
+    
+    entity "CRM_Клиенты" as crm_clients
+    
+    entity "CRM_Заказ" as crm_order {
+        + Статус
+        + Номер
+        + Клиент
+        --
+        + Товары.Номенклатура 
+    }
+    
+    entity "CRM_ОчередьRMQ" as crm_queue_rmq {
+        + ID
+        + Сообщение
+        + Маршрутизация
+    }
+    
+    entity "CRM_ПараметрыПодключенияRMQ" as crm_rmq_params {
+        + ИмяОбмена
+        + Адрес
+        + Порт
+        + Логин
+        + Пароль
+        + ВиртуальныйХост
+        + ИмяОчередиD
+        + ТочкаОбмена   
+    }
+}
+
+' Группа Очереди
+package "Очереди" {
+    entity "Очередь CRM_remaining" as queue_remaining {
+        + Остатки
+    }
+    entity "Очередь CRM_OrderStatus" as queue_order_status{
+        + Статусы заказов
+    }
+    entity "Очередь CRM_NewOrder" as queue_new_order{
+        + Новый заказ
+    }
+}
+
+'Выстраивание очередей по вертикали с помощью скрытых связей
+queue_remaining -[hidden]d-> queue_order_status
+queue_order_status -[hidden]d-> queue_new_order
+
+
+crm_rmq_params --> crm_queue_rmq
+rmq_params --> queue_rmq
+
+' Связи очередей
+queue_remaining --> crm_nomenclature::СвободныйОстаток
+queue_remaining <-- queue_rmq
+
+queue_order_status --> crm_order::Статус
+queue_order_status <-- queue_rmq
+queue_rmq  <-- order::Статус : CRM_OrderStatus
+
+queue_new_order <-- crm_queue_rmq
+queue_new_order --> order
+crm_order --> crm_queue_rmq : CRM_NewOrder
+
+' Связи между основными объектами Склад
+nomenclature --> income::Товары.Номенклатура
+nomenclature --> order::Товары.Номенклатура
+contractors --> income::Контрагент
+contractors --> order::Контрагент
+' Связи между основными объектами CRM
+crm_nomenclature --> crm_order::Товары.Номенклатура
+crm_clients --> crm_order::Клиент
+
+@enduml
